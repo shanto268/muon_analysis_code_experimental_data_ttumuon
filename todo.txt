@@ -1,0 +1,6 @@
+get pdfs for run 280 and 281
+upload pdf to evernote
+create new analysis program to mask channel 2 layer 1
+create combined analysis code shell script
+create combined analysis cpp code
+

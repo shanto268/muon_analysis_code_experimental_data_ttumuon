@@ -1,0 +1,27 @@
+
+Run code:
+
+. compRun.sh 481 45 0 1 2 1000000000 a  
+. compRun.sh 476 45 -90 1 2 1000000000 a  
+
+2) create different ana code for the different runs that need different channels to be masked
+3) create .anaRunALL_mask.sh to run all these different runs
+4) create new analaysis.cc code
+    >>> hadd all tower data to tower object
+    >>> hadd all away data to away object
+    >>> find weighted mean of R:
+        -> <R> = Sigma(w_i R_i) / Sigma(w_i)
+        -> the weights, w_i are going to be num(muons)_i from Run_i
+    >>> create the dip histogram
+    >>> create the 2d picture of the water tower
+    
+Masking channel code:
+>>>
+ if(h.time>0) {                                                                                                  
+// check the validity of values before saving it...
+if((h.layer>=0 && h.layer<=3) && (h.bb==0 || h.bb==1) && (h.ch>=0 && h.ch<=5)) {     
+if(!(node==4 && h.ch == 0)) {     // masking a channel    
+     e.hits.push_back(h);  
+     }
+    }
+}

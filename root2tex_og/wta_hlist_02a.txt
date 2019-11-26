@@ -1,0 +1,584 @@
+tex_template_file   tex_template8.tex
+tex_replace  DUMMYTITLE auto
+tex_replace  DUMMYDATE  auto
+tex_replace  DUMMYAUTHOR  MuonSC8 Analysis Team
+tex_footnote MuonSC8 (2019)
+comparison_mode false
+*  histogram list...
+*HOPTION  TH2D   colz
+*HOPTION  TH2Poly  COLZ
+*
+LatexBlockBegin
+\section{SC8 Raw Data}
+
+\begin{verbatim}
+Configuraion of the run since (06/28/2019):
+Layer 0:  (BB 0) 6 Channels, without cone, direct
+Layer 0:  (BB 1) 5 channels, without cone, direct
+Layer 1:  (BB 0) 6 Channels, with new holders, long cones
+Layer 1:  (BB 1) 4 Channels, with new holders, long cones
+Layer 2:  (BB 0) 6 channels, without Cone, direct
+Layer 2:  (BB 1) 5 channels, without Cone, direct
+Layer 3:  (BB 0) 6 channels, old holder, long cones
+Layer 3:  (BB 1) 5 Channels, old holder, long cones
+\end{verbatim}
+
+LatexBlockEnd
+TFile**		hist_v4a_run074_muon_10k_6nodes_lightON_newThreshold_1muon.root	
+ TFile*		hist_v4a_run074_muon_10k_6nodes_lightON_newThreshold_1muon.root	
+TDirectoryFile*		test	test
+*  OBJ: TH1D	nNodesAll	numbe of nodes (All events) : 0 at: 0x7ff8bf405360
+*  OBJ: TH1D	nNodesAll	numbe of nodes (All events) : 0 at: 0x7ff8bf404de0
+ KEY: TH1D	nNodesAll;1	numbe of nodes (All events)
+ KEY: TH1D	nNodesAccepted;1	numbe of nodes (Accepted Events)
+ KEY: TH1D	NodeNumber;1	Node Number
+ KEY: TH1D	N1Time;1	Node 1- timing
+ KEY: TH1D	N2Time;1	Node 2- timing
+ KEY: TH1D	N3Time;1	Node 3- timing
+ KEY: TH1D	N4Time;1	Node 4- timing
+ KEY: TH1D	N5Time;1	Node 5- timing
+ KEY: TH1D	N6Time;1	Node 6- timing
+ KEY: TH1D	N7Time;1	Node 7- timing
+ KEY: TH1D	N8Time;1	Node 8- timing
+ KEY: TH1D	N1MasterTime;1	Node 1- Master Time
+ KEY: TH1D	N2MasterTime;1	Node 2- Master Time
+ KEY: TH1D	N3MasterTime;1	Node 3- Master Time
+ KEY: TH1D	N4MasterTime;1	Node 4- Master Time
+ KEY: TH1D	N5MasterTime;1	Node 5- Master Time
+ KEY: TH1D	N6MasterTime;1	Node 6- Master Time
+ KEY: TH1D	N7MasterTime;1	Node 7- Master Time
+ KEY: TH1D	N8MasterTime;1	Node 8- Master Time
+ KEY: TH1D	N1nhits;1	Node 1- number of hits
+ KEY: TH1D	N2nhits;1	Node 2- number of hits
+ KEY: TH1D	N3nhits;1	Node 3- number of hits
+ KEY: TH1D	N4nhits;1	Node 4- number of hits
+ KEY: TH1D	N5nhits;1	Node 5- number of hits
+ KEY: TH1D	N6nhits;1	Node 6- number of hits
+ KEY: TH1D	N7nhits;1	Node 7- number of hits
+ KEY: TH1D	N8nhits;1	Node 8- number of hits
+ KEY: TH1D	nHits;1	numbe of hits
+ KEY: TH1D	LayerNum;1	Layer Number
+ KEY: TH1D	L0Ch;1	L0 Channel Numbers
+ KEY: TH1D	L1Ch;1	L1 Channel Numbers
+ KEY: TH1D	L2Ch;1	L2 Channel Numbers
+ KEY: TH1D	L3Ch;1	L3 Channel Numbers
+ KEY: TH1D	adcL0ChAll;1	L0 ADC ped sub(all channels)
+ KEY: TH1D	adcL1ChAll;1	L1 ADC ped sub(all channels)
+ KEY: TH1D	adcL2ChAll;1	L2 ADC ped sub (all channels)
+ KEY: TH1D	adcL3ChAll;1	L3 ADC ped sub (all channels)
+ KEY: TH1D	Layer0_Ch0_adc0;1	Layer 0 Ch 0 ADC[0]
+ KEY: TH1D	Layer0_Ch0_adc0;1	Layer 0 Ch 0 ADC[0]
+ KEY: TH1D	Layer0_Ch0_adc0;1	Layer 0 Ch 0 ADC[0]
+ KEY: TH1D	Layer0_Ch0_adc1;1	Layer 0 Ch 0 ADC[1]
+ KEY: TH1D	Layer0_Ch0_adcPedsub;1	Layer 0 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch1_adc0;1	Layer 0 Ch 1 ADC[0]
+ KEY: TH1D	Layer0_Ch1_adc1;1	Layer 0 Ch 1 ADC[1]
+ KEY: TH1D	Layer0_Ch1_adcPedsub;1	Layer 0 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch2_adc0;1	Layer 0 Ch 2 ADC[0]
+ KEY: TH1D	Layer0_Ch2_adc1;1	Layer 0 Ch 2 ADC[1]
+ KEY: TH1D	Layer0_Ch2_adcPedsub;1	Layer 0 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch3_adc0;1	Layer 0 Ch 3 ADC[0]
+ KEY: TH1D	Layer0_Ch3_adc1;1	Layer 0 Ch 3 ADC[1]
+ KEY: TH1D	Layer0_Ch3_adcPedsub;1	Layer 0 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch4_adc0;1	Layer 0 Ch 4 ADC[0]
+ KEY: TH1D	Layer0_Ch4_adc1;1	Layer 0 Ch 4 ADC[1]
+ KEY: TH1D	Layer0_Ch4_adcPedsub;1	Layer 0 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch5_adc0;1	Layer 0 Ch 5 ADC[0]
+ KEY: TH1D	Layer0_Ch5_adc1;1	Layer 0 Ch 5 ADC[1]
+ KEY: TH1D	Layer0_Ch5_adcPedsub;1	Layer 0 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch6_adc0;1	Layer 0 Ch 6 ADC[0]
+ KEY: TH1D	Layer0_Ch6_adc1;1	Layer 0 Ch 6 ADC[1]
+ KEY: TH1D	Layer0_Ch6_adcPedsub;1	Layer 0 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch7_adc0;1	Layer 0 Ch 7 ADC[0]
+ KEY: TH1D	Layer0_Ch7_adc1;1	Layer 0 Ch 7 ADC[1]
+ KEY: TH1D	Layer0_Ch7_adcPedsub;1	Layer 0 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch8_adc0;1	Layer 0 Ch 8 ADC[0]
+ KEY: TH1D	Layer0_Ch8_adc1;1	Layer 0 Ch 8 ADC[1]
+ KEY: TH1D	Layer0_Ch8_adcPedsub;1	Layer 0 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch9_adc0;1	Layer 0 Ch 9 ADC[0]
+ KEY: TH1D	Layer0_Ch9_adc1;1	Layer 0 Ch 9 ADC[1]
+ KEY: TH1D	Layer0_Ch9_adcPedsub;1	Layer 0 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch10_adc0;1	Layer 0 Ch 10 ADC[0]
+ KEY: TH1D	Layer0_Ch10_adc1;1	Layer 0 Ch 10 ADC[1]
+ KEY: TH1D	Layer0_Ch10_adcPedsub;1	Layer 0 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch11_adc0;1	Layer 0 Ch 11 ADC[0]
+ KEY: TH1D	Layer0_Ch11_adc1;1	Layer 0 Ch 11 ADC[1]
+ KEY: TH1D	Layer0_Ch11_adcPedsub;1	Layer 0 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch12_adc0;1	Layer 0 Ch 12 ADC[0]
+ KEY: TH1D	Layer0_Ch12_adc1;1	Layer 0 Ch 12 ADC[1]
+ KEY: TH1D	Layer0_Ch12_adcPedsub;1	Layer 0 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch0_adc0;1	Layer 1 Ch 0 ADC[0]
+ KEY: TH1D	Layer1_Ch0_adc1;1	Layer 1 Ch 0 ADC[1]
+ KEY: TH1D	Layer1_Ch0_adcPedsub;1	Layer 1 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch1_adc0;1	Layer 1 Ch 1 ADC[0]
+ KEY: TH1D	Layer1_Ch1_adc1;1	Layer 1 Ch 1 ADC[1]
+ KEY: TH1D	Layer1_Ch1_adcPedsub;1	Layer 1 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch2_adc0;1	Layer 1 Ch 2 ADC[0]
+ KEY: TH1D	Layer1_Ch2_adc1;1	Layer 1 Ch 2 ADC[1]
+ KEY: TH1D	Layer1_Ch2_adcPedsub;1	Layer 1 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch3_adc0;1	Layer 1 Ch 3 ADC[0]
+ KEY: TH1D	Layer1_Ch3_adc1;1	Layer 1 Ch 3 ADC[1]
+ KEY: TH1D	Layer1_Ch3_adcPedsub;1	Layer 1 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch4_adc0;1	Layer 1 Ch 4 ADC[0]
+ KEY: TH1D	Layer1_Ch4_adc1;1	Layer 1 Ch 4 ADC[1]
+ KEY: TH1D	Layer1_Ch4_adcPedsub;1	Layer 1 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch5_adc0;1	Layer 1 Ch 5 ADC[0]
+ KEY: TH1D	Layer1_Ch5_adc1;1	Layer 1 Ch 5 ADC[1]
+ KEY: TH1D	Layer1_Ch5_adcPedsub;1	Layer 1 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch6_adc0;1	Layer 1 Ch 6 ADC[0]
+ KEY: TH1D	Layer1_Ch6_adc1;1	Layer 1 Ch 6 ADC[1]
+ KEY: TH1D	Layer1_Ch6_adcPedsub;1	Layer 1 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch7_adc0;1	Layer 1 Ch 7 ADC[0]
+ KEY: TH1D	Layer1_Ch7_adc1;1	Layer 1 Ch 7 ADC[1]
+ KEY: TH1D	Layer1_Ch7_adcPedsub;1	Layer 1 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch8_adc0;1	Layer 1 Ch 8 ADC[0]
+ KEY: TH1D	Layer1_Ch8_adc1;1	Layer 1 Ch 8 ADC[1]
+ KEY: TH1D	Layer1_Ch8_adcPedsub;1	Layer 1 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch9_adc0;1	Layer 1 Ch 9 ADC[0]
+ KEY: TH1D	Layer1_Ch9_adc1;1	Layer 1 Ch 9 ADC[1]
+ KEY: TH1D	Layer1_Ch9_adcPedsub;1	Layer 1 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch10_adc0;1	Layer 1 Ch 10 ADC[0]
+ KEY: TH1D	Layer1_Ch10_adc1;1	Layer 1 Ch 10 ADC[1]
+ KEY: TH1D	Layer1_Ch10_adcPedsub;1	Layer 1 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch11_adc0;1	Layer 1 Ch 11 ADC[0]
+ KEY: TH1D	Layer1_Ch11_adc1;1	Layer 1 Ch 11 ADC[1]
+ KEY: TH1D	Layer1_Ch11_adcPedsub;1	Layer 1 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch12_adc0;1	Layer 1 Ch 12 ADC[0]
+ KEY: TH1D	Layer1_Ch12_adc1;1	Layer 1 Ch 12 ADC[1]
+ KEY: TH1D	Layer1_Ch12_adcPedsub;1	Layer 1 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch0_adc0;1	Layer 2 Ch 0 ADC[0]
+ KEY: TH1D	Layer2_Ch0_adc1;1	Layer 2 Ch 0 ADC[1]
+ KEY: TH1D	Layer2_Ch0_adcPedsub;1	Layer 2 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch1_adc0;1	Layer 2 Ch 1 ADC[0]
+ KEY: TH1D	Layer2_Ch1_adc1;1	Layer 2 Ch 1 ADC[1]
+ KEY: TH1D	Layer2_Ch1_adcPedsub;1	Layer 2 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch2_adc0;1	Layer 2 Ch 2 ADC[0]
+ KEY: TH1D	Layer2_Ch2_adc1;1	Layer 2 Ch 2 ADC[1]
+ KEY: TH1D	Layer2_Ch2_adcPedsub;1	Layer 2 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch3_adc0;1	Layer 2 Ch 3 ADC[0]
+ KEY: TH1D	Layer2_Ch3_adc1;1	Layer 2 Ch 3 ADC[1]
+ KEY: TH1D	Layer2_Ch3_adcPedsub;1	Layer 2 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch4_adc0;1	Layer 2 Ch 4 ADC[0]
+ KEY: TH1D	Layer2_Ch4_adc1;1	Layer 2 Ch 4 ADC[1]
+ KEY: TH1D	Layer2_Ch4_adcPedsub;1	Layer 2 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch5_adc0;1	Layer 2 Ch 5 ADC[0]
+ KEY: TH1D	Layer2_Ch5_adc1;1	Layer 2 Ch 5 ADC[1]
+ KEY: TH1D	Layer2_Ch5_adcPedsub;1	Layer 2 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch6_adc0;1	Layer 2 Ch 6 ADC[0]
+ KEY: TH1D	Layer2_Ch6_adc1;1	Layer 2 Ch 6 ADC[1]
+ KEY: TH1D	Layer2_Ch6_adcPedsub;1	Layer 2 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch7_adc0;1	Layer 2 Ch 7 ADC[0]
+ KEY: TH1D	Layer2_Ch7_adc1;1	Layer 2 Ch 7 ADC[1]
+ KEY: TH1D	Layer2_Ch7_adcPedsub;1	Layer 2 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch8_adc0;1	Layer 2 Ch 8 ADC[0]
+ KEY: TH1D	Layer2_Ch8_adc1;1	Layer 2 Ch 8 ADC[1]
+ KEY: TH1D	Layer2_Ch8_adcPedsub;1	Layer 2 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch9_adc0;1	Layer 2 Ch 9 ADC[0]
+ KEY: TH1D	Layer2_Ch9_adc1;1	Layer 2 Ch 9 ADC[1]
+ KEY: TH1D	Layer2_Ch9_adcPedsub;1	Layer 2 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch10_adc0;1	Layer 2 Ch 10 ADC[0]
+ KEY: TH1D	Layer2_Ch10_adc1;1	Layer 2 Ch 10 ADC[1]
+ KEY: TH1D	Layer2_Ch10_adcPedsub;1	Layer 2 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch11_adc0;1	Layer 2 Ch 11 ADC[0]
+ KEY: TH1D	Layer2_Ch11_adc1;1	Layer 2 Ch 11 ADC[1]
+ KEY: TH1D	Layer2_Ch11_adcPedsub;1	Layer 2 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch12_adc0;1	Layer 2 Ch 12 ADC[0]
+ KEY: TH1D	Layer2_Ch12_adc1;1	Layer 2 Ch 12 ADC[1]
+ KEY: TH1D	Layer2_Ch12_adcPedsub;1	Layer 2 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch0_adc0;1	Layer 3 Ch 0 ADC[0]
+ KEY: TH1D	Layer3_Ch0_adc1;1	Layer 3 Ch 0 ADC[1]
+ KEY: TH1D	Layer3_Ch0_adcPedsub;1	Layer 3 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch1_adc0;1	Layer 3 Ch 1 ADC[0]
+ KEY: TH1D	Layer3_Ch1_adc1;1	Layer 3 Ch 1 ADC[1]
+ KEY: TH1D	Layer3_Ch1_adcPedsub;1	Layer 3 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch2_adc0;1	Layer 3 Ch 2 ADC[0]
+ KEY: TH1D	Layer3_Ch2_adc1;1	Layer 3 Ch 2 ADC[1]
+ KEY: TH1D	Layer3_Ch2_adcPedsub;1	Layer 3 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch3_adc0;1	Layer 3 Ch 3 ADC[0]
+ KEY: TH1D	Layer3_Ch3_adc1;1	Layer 3 Ch 3 ADC[1]
+ KEY: TH1D	Layer3_Ch3_adcPedsub;1	Layer 3 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch4_adc0;1	Layer 3 Ch 4 ADC[0]
+ KEY: TH1D	Layer3_Ch4_adc1;1	Layer 3 Ch 4 ADC[1]
+ KEY: TH1D	Layer3_Ch4_adcPedsub;1	Layer 3 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch5_adc0;1	Layer 3 Ch 5 ADC[0]
+ KEY: TH1D	Layer3_Ch5_adc1;1	Layer 3 Ch 5 ADC[1]
+ KEY: TH1D	Layer3_Ch5_adcPedsub;1	Layer 3 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch6_adc0;1	Layer 3 Ch 6 ADC[0]
+ KEY: TH1D	Layer3_Ch6_adc1;1	Layer 3 Ch 6 ADC[1]
+ KEY: TH1D	Layer3_Ch6_adcPedsub;1	Layer 3 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch7_adc0;1	Layer 3 Ch 7 ADC[0]
+ KEY: TH1D	Layer3_Ch7_adc1;1	Layer 3 Ch 7 ADC[1]
+ KEY: TH1D	Layer3_Ch7_adcPedsub;1	Layer 3 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch8_adc0;1	Layer 3 Ch 8 ADC[0]
+ KEY: TH1D	Layer3_Ch8_adc1;1	Layer 3 Ch 8 ADC[1]
+ KEY: TH1D	Layer3_Ch8_adcPedsub;1	Layer 3 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch9_adc0;1	Layer 3 Ch 9 ADC[0]
+ KEY: TH1D	Layer3_Ch9_adc1;1	Layer 3 Ch 9 ADC[1]
+ KEY: TH1D	Layer3_Ch9_adcPedsub;1	Layer 3 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch10_adc0;1	Layer 3 Ch 10 ADC[0]
+ KEY: TH1D	Layer3_Ch10_adc1;1	Layer 3 Ch 10 ADC[1]
+ KEY: TH1D	Layer3_Ch10_adcPedsub;1	Layer 3 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch11_adc0;1	Layer 3 Ch 11 ADC[0]
+ KEY: TH1D	Layer3_Ch11_adc1;1	Layer 3 Ch 11 ADC[1]
+ KEY: TH1D	Layer3_Ch11_adcPedsub;1	Layer 3 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch12_adc0;1	Layer 3 Ch 12 ADC[0]
+ KEY: TH1D	Layer3_Ch12_adc1;1	Layer 3 Ch 12 ADC[1]
+ KEY: TH1D	Layer3_Ch12_adcPedsub;1	Layer 3 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch0_adc0;1	Layer 4 Ch 0 ADC[0]
+ KEY: TH1D	Layer4_Ch0_adc1;1	Layer 4 Ch 0 ADC[1]
+ KEY: TH1D	Layer4_Ch0_adcPedsub;1	Layer 4 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch1_adc0;1	Layer 4 Ch 1 ADC[0]
+ KEY: TH1D	Layer4_Ch1_adc1;1	Layer 4 Ch 1 ADC[1]
+ KEY: TH1D	Layer4_Ch1_adcPedsub;1	Layer 4 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch2_adc0;1	Layer 4 Ch 2 ADC[0]
+ KEY: TH1D	Layer4_Ch2_adc1;1	Layer 4 Ch 2 ADC[1]
+ KEY: TH1D	Layer4_Ch2_adcPedsub;1	Layer 4 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch3_adc0;1	Layer 4 Ch 3 ADC[0]
+ KEY: TH1D	Layer4_Ch3_adc1;1	Layer 4 Ch 3 ADC[1]
+ KEY: TH1D	Layer4_Ch3_adcPedsub;1	Layer 4 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch4_adc0;1	Layer 4 Ch 4 ADC[0]
+ KEY: TH1D	Layer4_Ch4_adc1;1	Layer 4 Ch 4 ADC[1]
+ KEY: TH1D	Layer4_Ch4_adcPedsub;1	Layer 4 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch5_adc0;1	Layer 4 Ch 5 ADC[0]
+ KEY: TH1D	Layer4_Ch5_adc1;1	Layer 4 Ch 5 ADC[1]
+ KEY: TH1D	Layer4_Ch5_adcPedsub;1	Layer 4 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch6_adc0;1	Layer 4 Ch 6 ADC[0]
+ KEY: TH1D	Layer4_Ch6_adc1;1	Layer 4 Ch 6 ADC[1]
+ KEY: TH1D	Layer4_Ch6_adcPedsub;1	Layer 4 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch7_adc0;1	Layer 4 Ch 7 ADC[0]
+ KEY: TH1D	Layer4_Ch7_adc1;1	Layer 4 Ch 7 ADC[1]
+ KEY: TH1D	Layer4_Ch7_adcPedsub;1	Layer 4 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch8_adc0;1	Layer 4 Ch 8 ADC[0]
+ KEY: TH1D	Layer4_Ch8_adc1;1	Layer 4 Ch 8 ADC[1]
+ KEY: TH1D	Layer4_Ch8_adcPedsub;1	Layer 4 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch9_adc0;1	Layer 4 Ch 9 ADC[0]
+ KEY: TH1D	Layer4_Ch9_adc1;1	Layer 4 Ch 9 ADC[1]
+ KEY: TH1D	Layer4_Ch9_adcPedsub;1	Layer 4 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch10_adc0;1	Layer 4 Ch 10 ADC[0]
+ KEY: TH1D	Layer4_Ch10_adc1;1	Layer 4 Ch 10 ADC[1]
+ KEY: TH1D	Layer4_Ch10_adcPedsub;1	Layer 4 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch11_adc0;1	Layer 4 Ch 11 ADC[0]
+ KEY: TH1D	Layer4_Ch11_adc1;1	Layer 4 Ch 11 ADC[1]
+ KEY: TH1D	Layer4_Ch11_adcPedsub;1	Layer 4 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch12_adc0;1	Layer 4 Ch 12 ADC[0]
+ KEY: TH1D	Layer4_Ch12_adc1;1	Layer 4 Ch 12 ADC[1]
+ KEY: TH1D	Layer4_Ch12_adcPedsub;1	Layer 4 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	dt;1	hitB-hitA
+ KEY: TH1D	dt2;1	hitB-hitA
+ KEY: TH1D	X0a;1	X (layer 0) x-coincidence
+ KEY: TH1D	Y1a;1	Y (layer 1) y-coincidence
+ KEY: TH1D	X0b;1	X (layer 0) xy-coincidence
+ KEY: TH1D	Y1b;1	Y (layer 1) xy-coincidence
+ KEY: TH1D	nMuonEvents;1	number of muonEvents
+ KEY: TH1D	nMuons;1	number of muons
+ KEY: TH1D	muX;1	muon: X at Z=0
+ KEY: TH1D	muY;1	muon: Y at Z=0
+ KEY: TH1D	muXS;1	muon: X slope (theta x-proj) (deg)
+ KEY: TH1D	muYS;1	muon: Y slope (theta y-proj) (deg)
+ KEY: TH1D	muTheta;1	muon:  theta (deg)
+LatexBlockBegin
+\newpage
+\section{Hit Cluster Analysis}
+
+\begin{verbatim}
+Clusters of hits in global time frame.
+\end{verbatim}
+
+LatexBlockEnd
+* LatexLine \newpage
+TDirectoryFile*		clusters	clusters
+ OBJ: TH1D	nClusters	N of Clusters : 0 at: 0x7fab82f87050
+ OBJ: TH1D	nClusters	N of Clusters : 0 at: 0x7fab873f9e00
+ KEY: TH1D	nClusters;1	N of Clusters
+ KEY: TH1D	nHitsPerCluster;1	N of hits per cluster
+ KEY: TH1D	hcL0Chs;1	hit cluster, ch in Layer 0
+ KEY: TH1D	hcL1Chs;1	hit cluster, ch in Layer 1
+ KEY: TH1D	hcL2Chs;1	hit cluster, ch in Layer 2
+ KEY: TH1D	hcL3Chs;1	hit cluster, ch in Layer 3
+ KEY: TH1D	hcL0nHits;1	N hits in cluster,  Layer 0
+ KEY: TH1D	hcL1nHits;1	N hits in cluster,  Layer 0
+ KEY: TH1D	hcL2nHits;1	N hits in cluster,  Layer 0
+ KEY: TH1D	hcL3nHits;1	N hits in cluster,  Layer 0
+LatexBlockBegin
+\newpage
+\section{Muon Track Analysis}
+
+\begin{verbatim}
+Four layer coincidence.
+The number of hits on muon track = 1 hit per layer 
+\end{verbatim}
+
+LatexBlockEnd
+* LatexLine \newpage
+TDirectoryFile*		muons	muons
+ OBJ: TH1D	N1MasterTime	Node 1- Master Time : 0 at: 0x7ff8c13be590
+ OBJ: TH1D	N1MasterTime	Node 1- Master Time : 0 at: 0x7ff8bf456e30
+ OBJ: TH1D	N2MasterTime	Node 2- Master Time : 0 at: 0x7ff8bf39ea90
+ OBJ: TH1D	N2MasterTime	Node 2- Master Time : 0 at: 0x7ff8c14420d0
+ OBJ: TH1D	nHits	number of hits : 0 at: 0x7ff8c1446ef0
+ OBJ: TH1D	nHits	number of hits : 0 at: 0x7ff8c1450fa0
+ OBJ: TH1D	LayerNum	Layer Number : 0 at: 0x7ff8c17530f0
+ OBJ: TH1D	LayerNum	Layer Number : 0 at: 0x7ff8bf45f060
+ OBJ: TH1D	L0Ch	L0 Channel Numbers : 0 at: 0x7ff8c1755140
+ OBJ: TH1D	L0Ch	L0 Channel Numbers : 0 at: 0x7ff8bf3a5c50
+ OBJ: TH1D	L1Ch	L1 Channel Numbers : 0 at: 0x7ff8c17578e0
+ OBJ: TH1D	L1Ch	L1 Channel Numbers : 0 at: 0x7ff8bf3a49a0
+ OBJ: TH1D	L2Ch	L2 Channel Numbers : 0 at: 0x7ff8c174fd60
+ OBJ: TH1D	L2Ch	L2 Channel Numbers : 0 at: 0x7ff8bf3b0500
+ OBJ: TH1D	L3Ch	L3 Channel Numbers : 0 at: 0x7ff8c1454f00
+ OBJ: TH1D	L3Ch	L3 Channel Numbers : 0 at: 0x7ff8bf3b6dd0
+ OBJ: TH1D	adcL0ChAll	L0 ADC ped sub(all channels) : 0 at: 0x7ff8c1752500
+ OBJ: TH1D	adcL0ChAll	L0 ADC ped sub(all channels) : 0 at: 0x7ff8bf466710
+ OBJ: TH1D	adcL1ChAll	L1 ADC ped sub(all channels) : 0 at: 0x7ff8c1459020
+ OBJ: TH1D	adcL1ChAll	L1 ADC ped sub(all channels) : 0 at: 0x7ff8bf3bc8e0
+ OBJ: TH1D	adcL2ChAll	L2 ADC ped sub (all channels) : 0 at: 0x7ff8c145a3d0
+ OBJ: TH1D	adcL2ChAll	L2 ADC ped sub (all channels) : 0 at: 0x7ff8c17564a0
+ OBJ: TH1D	adcL3ChAll	L3 ADC ped sub (all channels) : 0 at: 0x7ff8bf46e6d0
+ OBJ: TH1D	adcL3ChAll	L3 ADC ped sub (all channels) : 0 at: 0x7ff8c145d9e0
+ OBJ: TH1D	Layer0_Ch0_adc1	Layer 0 Ch 0 ADC[1] : 0 at: 0x7ff8bf3c8cd0
+ OBJ: TH1D	Layer0_Ch0_adc1	Layer 0 Ch 0 ADC[1] : 0 at: 0x7ff8bf4722a0
+ OBJ: TH1D	Layer0_Ch0_adc1	Layer 0 Ch 0 ADC[1] : 0 at: 0x7ff8c1465290
+ OBJ: TH1D	Layer0_Ch0_adc1	Layer 0 Ch 0 ADC[1] : 0 at: 0x7ff8bf3c92e0
+ KEY: TH1D	nMuonEvents;1	number of muonEvents
+ KEY: TH1D	nMuons;1	number of muons
+ KEY: TH1D	muX;1	muon: X at Z=0
+ KEY: TH1D	muY;1	muon: Y at Z=0
+ KEY: TH1D	muXS;1	muon: X slope (theta x-proj) (deg)
+ KEY: TH1D	muYS;1	muon: Y slope (theta y-proj) (deg)
+ KEY: TH1D	muTheta;1	muon:  theta (deg)
+ KEY: TH1D	N1MasterTime;1	Node 1- Master Time
+ KEY: TH1D	N2MasterTime;1	Node 2- Master Time
+ KEY: TH1D	N3MasterTime;1	Node 3- Master Time
+ KEY: TH1D	N4MasterTime;1	Node 4- Master Time
+ KEY: TH1D	N5MasterTime;1	Node 5- Master Time
+ KEY: TH1D	N6MasterTime;1	Node 6- Master Time
+ KEY: TH1D	N7MasterTime;1	Node 7- Master Time
+ KEY: TH1D	N8MasterTime;1	Node 8- Master Time
+ KEY: TH1D	nHits;1	number of hits
+ KEY: TH1D	LayerNum;1	Layer Number
+ KEY: TH1D	L0Ch;1	L0 Channel Numbers
+ KEY: TH1D	L1Ch;1	L1 Channel Numbers
+ KEY: TH1D	L2Ch;1	L2 Channel Numbers
+ KEY: TH1D	L3Ch;1	L3 Channel Numbers
+ KEY: TH1D	adcL0ChAll;1	L0 ADC ped sub(all channels)
+ KEY: TH1D	adcL1ChAll;1	L1 ADC ped sub(all channels)
+ KEY: TH1D	adcL2ChAll;1	L2 ADC ped sub (all channels)
+ KEY: TH1D	adcL3ChAll;1	L3 ADC ped sub (all channels)
+ KEY: TH1D	adcL3ChAll;1	L3 ADC ped sub (all channels)
+ KEY: TH1D	Layer0_Ch0_adc0;1	Layer 0 Ch 0 ADC[0]
+ KEY: TH1D	Layer0_Ch0_adc0;1	Layer 0 Ch 0 ADC[0]
+ KEY: TH1D	Layer0_Ch0_adc1;1	Layer 0 Ch 0 ADC[1]
+ KEY: TH1D	Layer0_Ch0_adcPedsub;1	Layer 0 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch1_adc0;1	Layer 0 Ch 1 ADC[0]
+ KEY: TH1D	Layer0_Ch1_adc1;1	Layer 0 Ch 1 ADC[1]
+ KEY: TH1D	Layer0_Ch1_adcPedsub;1	Layer 0 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch2_adc0;1	Layer 0 Ch 2 ADC[0]
+ KEY: TH1D	Layer0_Ch2_adc1;1	Layer 0 Ch 2 ADC[1]
+ KEY: TH1D	Layer0_Ch2_adcPedsub;1	Layer 0 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch3_adc0;1	Layer 0 Ch 3 ADC[0]
+ KEY: TH1D	Layer0_Ch3_adc1;1	Layer 0 Ch 3 ADC[1]
+ KEY: TH1D	Layer0_Ch3_adcPedsub;1	Layer 0 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch4_adc0;1	Layer 0 Ch 4 ADC[0]
+ KEY: TH1D	Layer0_Ch4_adc1;1	Layer 0 Ch 4 ADC[1]
+ KEY: TH1D	Layer0_Ch4_adcPedsub;1	Layer 0 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch5_adc0;1	Layer 0 Ch 5 ADC[0]
+ KEY: TH1D	Layer0_Ch5_adc1;1	Layer 0 Ch 5 ADC[1]
+ KEY: TH1D	Layer0_Ch5_adcPedsub;1	Layer 0 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch6_adc0;1	Layer 0 Ch 6 ADC[0]
+ KEY: TH1D	Layer0_Ch6_adc1;1	Layer 0 Ch 6 ADC[1]
+ KEY: TH1D	Layer0_Ch6_adcPedsub;1	Layer 0 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch7_adc0;1	Layer 0 Ch 7 ADC[0]
+ KEY: TH1D	Layer0_Ch7_adc1;1	Layer 0 Ch 7 ADC[1]
+ KEY: TH1D	Layer0_Ch7_adcPedsub;1	Layer 0 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch8_adc0;1	Layer 0 Ch 8 ADC[0]
+ KEY: TH1D	Layer0_Ch8_adc1;1	Layer 0 Ch 8 ADC[1]
+ KEY: TH1D	Layer0_Ch8_adcPedsub;1	Layer 0 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch9_adc0;1	Layer 0 Ch 9 ADC[0]
+ KEY: TH1D	Layer0_Ch9_adc1;1	Layer 0 Ch 9 ADC[1]
+ KEY: TH1D	Layer0_Ch9_adcPedsub;1	Layer 0 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch10_adc0;1	Layer 0 Ch 10 ADC[0]
+ KEY: TH1D	Layer0_Ch10_adc1;1	Layer 0 Ch 10 ADC[1]
+ KEY: TH1D	Layer0_Ch10_adcPedsub;1	Layer 0 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch11_adc0;1	Layer 0 Ch 11 ADC[0]
+ KEY: TH1D	Layer0_Ch11_adc1;1	Layer 0 Ch 11 ADC[1]
+ KEY: TH1D	Layer0_Ch11_adcPedsub;1	Layer 0 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer0_Ch12_adc0;1	Layer 0 Ch 12 ADC[0]
+ KEY: TH1D	Layer0_Ch12_adc1;1	Layer 0 Ch 12 ADC[1]
+ KEY: TH1D	Layer0_Ch12_adcPedsub;1	Layer 0 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch0_adc0;1	Layer 1 Ch 0 ADC[0]
+ KEY: TH1D	Layer1_Ch0_adc1;1	Layer 1 Ch 0 ADC[1]
+ KEY: TH1D	Layer1_Ch0_adcPedsub;1	Layer 1 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch1_adc0;1	Layer 1 Ch 1 ADC[0]
+ KEY: TH1D	Layer1_Ch1_adc1;1	Layer 1 Ch 1 ADC[1]
+ KEY: TH1D	Layer1_Ch1_adcPedsub;1	Layer 1 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch2_adc0;1	Layer 1 Ch 2 ADC[0]
+ KEY: TH1D	Layer1_Ch2_adc1;1	Layer 1 Ch 2 ADC[1]
+ KEY: TH1D	Layer1_Ch2_adcPedsub;1	Layer 1 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch3_adc0;1	Layer 1 Ch 3 ADC[0]
+ KEY: TH1D	Layer1_Ch3_adc1;1	Layer 1 Ch 3 ADC[1]
+ KEY: TH1D	Layer1_Ch3_adcPedsub;1	Layer 1 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch4_adc0;1	Layer 1 Ch 4 ADC[0]
+ KEY: TH1D	Layer1_Ch4_adc1;1	Layer 1 Ch 4 ADC[1]
+ KEY: TH1D	Layer1_Ch4_adcPedsub;1	Layer 1 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch5_adc0;1	Layer 1 Ch 5 ADC[0]
+ KEY: TH1D	Layer1_Ch5_adc1;1	Layer 1 Ch 5 ADC[1]
+ KEY: TH1D	Layer1_Ch5_adcPedsub;1	Layer 1 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch6_adc0;1	Layer 1 Ch 6 ADC[0]
+ KEY: TH1D	Layer1_Ch6_adc1;1	Layer 1 Ch 6 ADC[1]
+ KEY: TH1D	Layer1_Ch6_adcPedsub;1	Layer 1 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch7_adc0;1	Layer 1 Ch 7 ADC[0]
+ KEY: TH1D	Layer1_Ch7_adc1;1	Layer 1 Ch 7 ADC[1]
+ KEY: TH1D	Layer1_Ch7_adcPedsub;1	Layer 1 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch8_adc0;1	Layer 1 Ch 8 ADC[0]
+ KEY: TH1D	Layer1_Ch8_adc1;1	Layer 1 Ch 8 ADC[1]
+ KEY: TH1D	Layer1_Ch8_adcPedsub;1	Layer 1 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch9_adc0;1	Layer 1 Ch 9 ADC[0]
+ KEY: TH1D	Layer1_Ch9_adc1;1	Layer 1 Ch 9 ADC[1]
+ KEY: TH1D	Layer1_Ch9_adcPedsub;1	Layer 1 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch10_adc0;1	Layer 1 Ch 10 ADC[0]
+ KEY: TH1D	Layer1_Ch10_adc1;1	Layer 1 Ch 10 ADC[1]
+ KEY: TH1D	Layer1_Ch10_adcPedsub;1	Layer 1 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch11_adc0;1	Layer 1 Ch 11 ADC[0]
+ KEY: TH1D	Layer1_Ch11_adc1;1	Layer 1 Ch 11 ADC[1]
+ KEY: TH1D	Layer1_Ch11_adcPedsub;1	Layer 1 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer1_Ch12_adc0;1	Layer 1 Ch 12 ADC[0]
+ KEY: TH1D	Layer1_Ch12_adc1;1	Layer 1 Ch 12 ADC[1]
+ KEY: TH1D	Layer1_Ch12_adcPedsub;1	Layer 1 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch0_adc0;1	Layer 2 Ch 0 ADC[0]
+ KEY: TH1D	Layer2_Ch0_adc1;1	Layer 2 Ch 0 ADC[1]
+ KEY: TH1D	Layer2_Ch0_adcPedsub;1	Layer 2 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch1_adc0;1	Layer 2 Ch 1 ADC[0]
+ KEY: TH1D	Layer2_Ch1_adc1;1	Layer 2 Ch 1 ADC[1]
+ KEY: TH1D	Layer2_Ch1_adcPedsub;1	Layer 2 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch2_adc0;1	Layer 2 Ch 2 ADC[0]
+ KEY: TH1D	Layer2_Ch2_adc1;1	Layer 2 Ch 2 ADC[1]
+ KEY: TH1D	Layer2_Ch2_adcPedsub;1	Layer 2 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch3_adc0;1	Layer 2 Ch 3 ADC[0]
+ KEY: TH1D	Layer2_Ch3_adc1;1	Layer 2 Ch 3 ADC[1]
+ KEY: TH1D	Layer2_Ch3_adcPedsub;1	Layer 2 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch4_adc0;1	Layer 2 Ch 4 ADC[0]
+ KEY: TH1D	Layer2_Ch4_adc1;1	Layer 2 Ch 4 ADC[1]
+ KEY: TH1D	Layer2_Ch4_adcPedsub;1	Layer 2 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch5_adc0;1	Layer 2 Ch 5 ADC[0]
+ KEY: TH1D	Layer2_Ch5_adc1;1	Layer 2 Ch 5 ADC[1]
+ KEY: TH1D	Layer2_Ch5_adcPedsub;1	Layer 2 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch6_adc0;1	Layer 2 Ch 6 ADC[0]
+ KEY: TH1D	Layer2_Ch6_adc1;1	Layer 2 Ch 6 ADC[1]
+ KEY: TH1D	Layer2_Ch6_adcPedsub;1	Layer 2 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch7_adc0;1	Layer 2 Ch 7 ADC[0]
+ KEY: TH1D	Layer2_Ch7_adc1;1	Layer 2 Ch 7 ADC[1]
+ KEY: TH1D	Layer2_Ch7_adcPedsub;1	Layer 2 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch8_adc0;1	Layer 2 Ch 8 ADC[0]
+ KEY: TH1D	Layer2_Ch8_adc1;1	Layer 2 Ch 8 ADC[1]
+ KEY: TH1D	Layer2_Ch8_adcPedsub;1	Layer 2 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch9_adc0;1	Layer 2 Ch 9 ADC[0]
+ KEY: TH1D	Layer2_Ch9_adc1;1	Layer 2 Ch 9 ADC[1]
+ KEY: TH1D	Layer2_Ch9_adcPedsub;1	Layer 2 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch10_adc0;1	Layer 2 Ch 10 ADC[0]
+ KEY: TH1D	Layer2_Ch10_adc1;1	Layer 2 Ch 10 ADC[1]
+ KEY: TH1D	Layer2_Ch10_adcPedsub;1	Layer 2 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch11_adc0;1	Layer 2 Ch 11 ADC[0]
+ KEY: TH1D	Layer2_Ch11_adc1;1	Layer 2 Ch 11 ADC[1]
+ KEY: TH1D	Layer2_Ch11_adcPedsub;1	Layer 2 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer2_Ch12_adc0;1	Layer 2 Ch 12 ADC[0]
+ KEY: TH1D	Layer2_Ch12_adc1;1	Layer 2 Ch 12 ADC[1]
+ KEY: TH1D	Layer2_Ch12_adcPedsub;1	Layer 2 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch0_adc0;1	Layer 3 Ch 0 ADC[0]
+ KEY: TH1D	Layer3_Ch0_adc1;1	Layer 3 Ch 0 ADC[1]
+ KEY: TH1D	Layer3_Ch0_adcPedsub;1	Layer 3 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch1_adc0;1	Layer 3 Ch 1 ADC[0]
+ KEY: TH1D	Layer3_Ch1_adc1;1	Layer 3 Ch 1 ADC[1]
+ KEY: TH1D	Layer3_Ch1_adcPedsub;1	Layer 3 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch2_adc0;1	Layer 3 Ch 2 ADC[0]
+ KEY: TH1D	Layer3_Ch2_adc1;1	Layer 3 Ch 2 ADC[1]
+ KEY: TH1D	Layer3_Ch2_adcPedsub;1	Layer 3 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch3_adc0;1	Layer 3 Ch 3 ADC[0]
+ KEY: TH1D	Layer3_Ch3_adc1;1	Layer 3 Ch 3 ADC[1]
+ KEY: TH1D	Layer3_Ch3_adcPedsub;1	Layer 3 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch4_adc0;1	Layer 3 Ch 4 ADC[0]
+ KEY: TH1D	Layer3_Ch4_adc1;1	Layer 3 Ch 4 ADC[1]
+ KEY: TH1D	Layer3_Ch4_adcPedsub;1	Layer 3 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch5_adc0;1	Layer 3 Ch 5 ADC[0]
+ KEY: TH1D	Layer3_Ch5_adc1;1	Layer 3 Ch 5 ADC[1]
+ KEY: TH1D	Layer3_Ch5_adcPedsub;1	Layer 3 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch6_adc0;1	Layer 3 Ch 6 ADC[0]
+ KEY: TH1D	Layer3_Ch6_adc1;1	Layer 3 Ch 6 ADC[1]
+ KEY: TH1D	Layer3_Ch6_adcPedsub;1	Layer 3 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch7_adc0;1	Layer 3 Ch 7 ADC[0]
+ KEY: TH1D	Layer3_Ch7_adc1;1	Layer 3 Ch 7 ADC[1]
+ KEY: TH1D	Layer3_Ch7_adcPedsub;1	Layer 3 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch8_adc0;1	Layer 3 Ch 8 ADC[0]
+ KEY: TH1D	Layer3_Ch8_adc1;1	Layer 3 Ch 8 ADC[1]
+ KEY: TH1D	Layer3_Ch8_adcPedsub;1	Layer 3 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch9_adc0;1	Layer 3 Ch 9 ADC[0]
+ KEY: TH1D	Layer3_Ch9_adc1;1	Layer 3 Ch 9 ADC[1]
+ KEY: TH1D	Layer3_Ch9_adcPedsub;1	Layer 3 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch10_adc0;1	Layer 3 Ch 10 ADC[0]
+ KEY: TH1D	Layer3_Ch10_adc1;1	Layer 3 Ch 10 ADC[1]
+ KEY: TH1D	Layer3_Ch10_adcPedsub;1	Layer 3 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch11_adc0;1	Layer 3 Ch 11 ADC[0]
+ KEY: TH1D	Layer3_Ch11_adc1;1	Layer 3 Ch 11 ADC[1]
+ KEY: TH1D	Layer3_Ch11_adcPedsub;1	Layer 3 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer3_Ch12_adc0;1	Layer 3 Ch 12 ADC[0]
+ KEY: TH1D	Layer3_Ch12_adc1;1	Layer 3 Ch 12 ADC[1]
+ KEY: TH1D	Layer3_Ch12_adcPedsub;1	Layer 3 Ch 12 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch0_adc0;1	Layer 4 Ch 0 ADC[0]
+ KEY: TH1D	Layer4_Ch0_adc1;1	Layer 4 Ch 0 ADC[1]
+ KEY: TH1D	Layer4_Ch0_adcPedsub;1	Layer 4 Ch 0 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch1_adc0;1	Layer 4 Ch 1 ADC[0]
+ KEY: TH1D	Layer4_Ch1_adc1;1	Layer 4 Ch 1 ADC[1]
+ KEY: TH1D	Layer4_Ch1_adcPedsub;1	Layer 4 Ch 1 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch2_adc0;1	Layer 4 Ch 2 ADC[0]
+ KEY: TH1D	Layer4_Ch2_adc1;1	Layer 4 Ch 2 ADC[1]
+ KEY: TH1D	Layer4_Ch2_adcPedsub;1	Layer 4 Ch 2 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch3_adc0;1	Layer 4 Ch 3 ADC[0]
+ KEY: TH1D	Layer4_Ch3_adc1;1	Layer 4 Ch 3 ADC[1]
+ KEY: TH1D	Layer4_Ch3_adcPedsub;1	Layer 4 Ch 3 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch4_adc0;1	Layer 4 Ch 4 ADC[0]
+ KEY: TH1D	Layer4_Ch4_adc1;1	Layer 4 Ch 4 ADC[1]
+ KEY: TH1D	Layer4_Ch4_adcPedsub;1	Layer 4 Ch 4 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch5_adc0;1	Layer 4 Ch 5 ADC[0]
+ KEY: TH1D	Layer4_Ch5_adc1;1	Layer 4 Ch 5 ADC[1]
+ KEY: TH1D	Layer4_Ch5_adcPedsub;1	Layer 4 Ch 5 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch6_adc0;1	Layer 4 Ch 6 ADC[0]
+ KEY: TH1D	Layer4_Ch6_adc1;1	Layer 4 Ch 6 ADC[1]
+ KEY: TH1D	Layer4_Ch6_adcPedsub;1	Layer 4 Ch 6 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch7_adc0;1	Layer 4 Ch 7 ADC[0]
+ KEY: TH1D	Layer4_Ch7_adc1;1	Layer 4 Ch 7 ADC[1]
+ KEY: TH1D	Layer4_Ch7_adcPedsub;1	Layer 4 Ch 7 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch8_adc0;1	Layer 4 Ch 8 ADC[0]
+ KEY: TH1D	Layer4_Ch8_adc1;1	Layer 4 Ch 8 ADC[1]
+ KEY: TH1D	Layer4_Ch8_adcPedsub;1	Layer 4 Ch 8 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch9_adc0;1	Layer 4 Ch 9 ADC[0]
+ KEY: TH1D	Layer4_Ch9_adc1;1	Layer 4 Ch 9 ADC[1]
+ KEY: TH1D	Layer4_Ch9_adcPedsub;1	Layer 4 Ch 9 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch10_adc0;1	Layer 4 Ch 10 ADC[0]
+ KEY: TH1D	Layer4_Ch10_adc1;1	Layer 4 Ch 10 ADC[1]
+ KEY: TH1D	Layer4_Ch10_adcPedsub;1	Layer 4 Ch 10 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch11_adc0;1	Layer 4 Ch 11 ADC[0]
+ KEY: TH1D	Layer4_Ch11_adc1;1	Layer 4 Ch 11 ADC[1]
+ KEY: TH1D	Layer4_Ch11_adcPedsub;1	Layer 4 Ch 11 ADC(ped subtracted)
+ KEY: TH1D	Layer4_Ch12_adc0;1	Layer 4 Ch 12 ADC[0]
+ KEY: TH1D	Layer4_Ch12_adc1;1	Layer 4 Ch 12 ADC[1]
+ KEY: TH1D	Layer4_Ch12_adcPedsub;1	Layer 4 Ch 12 ADC(ped subtracted)
+LatexBlockBegin
+\newpage
+\section{Water Tower Analysis}
+
+\begin{verbatim}
+Four layer coincidence.
+The number of hits on muon track = 1 hit per layer
+\end{verbatim}
+
+LatexBlockEnd
+TDirectoryFile*		watertower	watertower
+ OBJ: TH1D	muXproj	Muon X-projection : 0 at: 0x7faabf699e80
+ OBJ: TH1D	muXproj	Muon X-projection : 0 at: 0x7faabc5f9410
+ KEY: TH1D	muXproj;1	Muon X-projection
+ KEY: TH1D	muYproj;1	Muon Y-projection
+ KEY: TH1D	muXpr2;1	Muon X-proj (in y band)
+ KEY: TH1D	muYpr2;1	Muon Y-proj (in x band)
+ KEY: TH1D	muXpr3;1	Muon X-proj (in y side-band)
+ KEY: TH1D	muYpr3;1	Muon Y-proj (in x band -10 to 0)
+ KEY: TH2D	muXYproj;1	Muon XY-projection
+

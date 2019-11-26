@@ -1,0 +1,20 @@
+runALL.sh ---> starts the program
+runALL.sh contains:
+    >>> run45
+    >>> run50
+    >>> run60
+/*
+runN executes all the runs of theta N:
+runN contains:
+    >>> execution of different ana code
+anaM.sh creates root files for mask type M
+
+anaM.sh has the following types:
+    >>> ana16
+    >>> ana13
+    >>> anar80
+    >>> anasm
+    >>> ananm
+    >>> anapm
+    >>> ana12
+*/

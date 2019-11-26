@@ -1,0 +1,7 @@
+>> copy root file to root2tex/
+>> go to root2tex/
+>> c++ `root-config --cflags` -o root2tex_v9 root2tex_v9.cc `root-config --glibs`
+>> ./root2tex_v9  wta_hlist_02a.txt name_of_root_file.root
+>> pdflatex plots_name_of_root_file.tex
+>> download the pdf  to local computer
+

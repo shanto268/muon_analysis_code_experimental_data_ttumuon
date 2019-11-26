@@ -1,0 +1,4144 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2019.5.31)  9 OCT 2019 18:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**plots_histWTP_473_45_0_1_2_1000000000_a.tex
+(./plots_histWTP_473_45_0_1_2_1000000000_a.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks17
+\float@box=\box26
+\@float@everytoks=\toks18
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/02/03 v3.3-65 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/02/03 v1.5-62 caption3 kernel (AR)
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count89
+Package caption Info: float package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tex-gyre/tgtermes.sty
+Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen112
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count92
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count93
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen113
+\Fld@menulength=\count94
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count98
+\c@bookmark@seq@number=\count99
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen116
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip11
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks20
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks21
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks22
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count112
+\mult@box=\box30
+\multicol@leftmargin=\dimen125
+\c@unbalance=\count113
+\c@collectmore=\count114
+\doublecol@number=\count115
+\multicoltolerance=\count116
+\multicolpretolerance=\count117
+\full@width=\dimen126
+\page@free=\dimen127
+\premulticols=\dimen128
+\postmulticols=\dimen129
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box31
+\last@line=\box32
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count118
+\c@finalcolumnbadness=\count119
+\last@try=\dimen130
+\multicolovershoot=\dimen131
+\multicolundershoot=\dimen132
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\multicol@sort@counter=\count120
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box56
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen133
+\pgf@y=\dimen134
+\pgf@xa=\dimen135
+\pgf@ya=\dimen136
+\pgf@xb=\dimen137
+\pgf@yb=\dimen138
+\pgf@xc=\dimen139
+\pgf@yc=\dimen140
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count121
+\c@pgf@countb=\count122
+\c@pgf@countc=\count123
+\c@pgf@countd=\count124
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count125
+\pgfsyssoftpath@bigbuffer@items=\count126
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen141
+\pgfmath@count=\count127
+\pgfmath@box=\box57
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count128
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen142
+\pgf@picmaxx=\dimen143
+\pgf@picminy=\dimen144
+\pgf@picmaxy=\dimen145
+\pgf@pathminx=\dimen146
+\pgf@pathmaxx=\dimen147
+\pgf@pathminy=\dimen148
+\pgf@pathmaxy=\dimen149
+\pgf@xx=\dimen150
+\pgf@xy=\dimen151
+\pgf@yx=\dimen152
+\pgf@yy=\dimen153
+\pgf@zx=\dimen154
+\pgf@zy=\dimen155
+LaTeX Font Info:    Try loading font information for T1+qtm on input line 862.
+ (/usr/share/texlive/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
+File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen156
+\pgf@path@lasty=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen158
+\pgf@shorten@start@additional=\dimen159
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count129
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen161
+\pgf@pt@y=\dimen162
+\pgf@pt@temp=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen164
+\pgf@sys@shading@range@num=\count130
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box61
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box62
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen165
+\pgf@nodesepend=\dimen166
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen167
+\pgffor@skip=\dimen168
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count131
+\pgfplotmarksize=\dimen169
+)
+\tikz@lastx=\dimen170
+\tikz@lasty=\dimen171
+\tikz@lastxsaved=\dimen172
+\tikz@lastysaved=\dimen173
+\tikzleveldistance=\dimen174
+\tikzsiblingdistance=\dimen175
+\tikz@figbox=\box63
+\tikz@tempbox=\box64
+\tikztreelevel=\count132
+\tikznumberofchildren=\count133
+\tikznumberofcurrentchild=\count134
+\tikz@fig@count=\count135
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count136
+\pgfmatrixcurrentcolumn=\count137
+\pgf@matrix@numberofcolumns=\count138
+)
+\tikz@expandcount=\count139
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count140
+\Gm@cntv=\count141
+\c@Gm@tempcnt=\count142
+\Gm@bindingoffset=\dimen176
+\Gm@wd@mp=\dimen177
+\Gm@odd@mp=\dimen178
+\Gm@even@mp=\dimen179
+\Gm@layoutwidth=\dimen180
+\Gm@layoutheight=\dimen181
+\Gm@layouthoffset=\dimen182
+\Gm@layoutvoffset=\dimen183
+\Gm@dimlist=\toks40
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
+
+\c@defi=\count143
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip52
+\f@ncyO@elh=\skip53
+\f@ncyO@erh=\skip54
+\f@ncyO@olh=\skip55
+\f@ncyO@orh=\skip56
+\f@ncyO@elf=\skip57
+\f@ncyO@erf=\skip58
+\f@ncyO@olf=\skip59
+\f@ncyO@orf=\skip60
+)
+No file plots_histWTP_473_45_0_1_2_1000000000_a.aux.
+\openout1 = `plots_histWTP_473_45_0_1_2_1000000000_a.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 76.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 76.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen184
+\scratchbox=\box65
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen185
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks42
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 76.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count150
+)
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
+\@outlinefile=\write4
+\openout4 = `plots_histWTP_473_45_0_1_2_1000000000_a.out'.
+
+
+ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=731.23584pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+<plotsdir/file0_test-nNodesAll-1.pdf, id=7, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-nNodesAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-nNodesAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-nNodesAll-1.pdf used on input line
+ 118.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-nNodesAccepted-1.pdf, id=9, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-nNodesAccepted-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-nNodesAccepted-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-nNodesAccepted-1.pdf used on input
+ line 119.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-NodeNumber-1.pdf, id=11, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-NodeNumber-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-NodeNumber-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-NodeNumber-1.pdf used on input lin
+e 120.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N1Time-1.pdf, id=13, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N1Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N1Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N1Time-1.pdf used on input line 12
+5.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N2Time-1.pdf, id=15, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N2Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N2Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N2Time-1.pdf used on input line 12
+6.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N3Time-1.pdf, id=17, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N3Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N3Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N3Time-1.pdf used on input line 12
+7.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N4Time-1.pdf, id=19, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N4Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N4Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N4Time-1.pdf used on input line 13
+2.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N5Time-1.pdf, id=21, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N5Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N5Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N5Time-1.pdf used on input line 13
+3.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N6Time-1.pdf, id=23, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N6Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N6Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N6Time-1.pdf used on input line 13
+4.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N7Time-1.pdf, id=25, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N7Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N7Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N7Time-1.pdf used on input line 13
+9.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N8Time-1.pdf, id=27, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N8Time-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N8Time-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N8Time-1.pdf used on input line 14
+0.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N1MasterTime-1.pdf, id=29, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N1MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N1MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N1MasterTime-1.pdf used on input l
+ine 141.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 143.
+
+[1
+
+{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map} <./plotsdir/file0
+_test-nNodesAll-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-nNode
+sAccepted-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-NodeNumber-
+1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N1Time-1.pdf, page is
+ rotated 90 degrees> <./plotsdir/file0_test-N2Time-1.pdf, page is rotated 90 de
+grees> <./plotsdir/file0_test-N3Time-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_test-N2MasterTime-1.pdf, id=309, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N2MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N2MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N2MasterTime-1.pdf used on input l
+ine 146.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N3MasterTime-1.pdf, id=311, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N3MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N3MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N3MasterTime-1.pdf used on input l
+ine 147.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N4MasterTime-1.pdf, id=313, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N4MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N4MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N4MasterTime-1.pdf used on input l
+ine 148.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N5MasterTime-1.pdf, id=315, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N5MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N5MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N5MasterTime-1.pdf used on input l
+ine 153.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N6MasterTime-1.pdf, id=317, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N6MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N6MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N6MasterTime-1.pdf used on input l
+ine 154.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N7MasterTime-1.pdf, id=319, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N7MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N7MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N7MasterTime-1.pdf used on input l
+ine 155.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N8MasterTime-1.pdf, id=321, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N8MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N8MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N8MasterTime-1.pdf used on input l
+ine 160.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N1nhits-1.pdf, id=323, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N1nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N1nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N1nhits-1.pdf used on input line 1
+61.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N2nhits-1.pdf, id=325, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N2nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N2nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N2nhits-1.pdf used on input line 1
+62.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N3nhits-1.pdf, id=327, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N3nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N3nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N3nhits-1.pdf used on input line 1
+67.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N4nhits-1.pdf, id=329, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N4nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N4nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N4nhits-1.pdf used on input line 1
+68.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N5nhits-1.pdf, id=331, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N5nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N5nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N5nhits-1.pdf used on input line 1
+69.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N6nhits-1.pdf, id=333, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N6nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N6nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N6nhits-1.pdf used on input line 1
+74.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N7nhits-1.pdf, id=335, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N7nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N7nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N7nhits-1.pdf used on input line 1
+75.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-N8nhits-1.pdf, id=337, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-N8nhits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-N8nhits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-N8nhits-1.pdf used on input line 1
+76.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 178.
+
+[2 <./plotsdir/file0_test-N4Time-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_test-N5Time-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N6
+Time-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N7Time-1.pdf, pa
+ge is rotated 90 degrees> <./plotsdir/file0_test-N8Time-1.pdf, page is rotated 
+90 degrees> <./plotsdir/file0_test-N1MasterTime-1.pdf, page is rotated 90 degre
+es> <./plotsdir/file0_test-N2MasterTime-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_test-N3MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/
+file0_test-N4MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_te
+st-N5MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N6Mas
+terTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N7MasterTime-
+1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N8MasterTime-1.pdf, p
+age is rotated 90 degrees> <./plotsdir/file0_test-N1nhits-1.pdf, page is rotate
+d 90 degrees> <./plotsdir/file0_test-N2nhits-1.pdf, page is rotated 90 degrees>
+] <plotsdir/file0_test-nHits-1.pdf, id=1011, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-nHits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-nHits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-nHits-1.pdf used on input line 181
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-LayerNum-1.pdf, id=1013, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-LayerNum-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-LayerNum-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-LayerNum-1.pdf used on input line 
+182.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-L0Ch-1.pdf, id=1015, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-L0Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-L0Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-L0Ch-1.pdf used on input line 183.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-L1Ch-1.pdf, id=1017, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-L1Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-L1Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-L1Ch-1.pdf used on input line 188.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-L2Ch-1.pdf, id=1019, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-L2Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-L2Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-L2Ch-1.pdf used on input line 189.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-L3Ch-1.pdf, id=1021, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-L3Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-L3Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-L3Ch-1.pdf used on input line 190.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-adcL0ChAll-1.pdf, id=1023, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-adcL0ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-adcL0ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-adcL0ChAll-1.pdf used on input lin
+e 195.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-adcL1ChAll-1.pdf, id=1025, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-adcL1ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-adcL1ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-adcL1ChAll-1.pdf used on input lin
+e 196.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-adcL2ChAll-1.pdf, id=1027, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-adcL2ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-adcL2ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-adcL2ChAll-1.pdf used on input lin
+e 197.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-adcL3ChAll-1.pdf, id=1029, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-adcL3ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-adcL3ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-adcL3ChAll-1.pdf used on input lin
+e 202.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf, id=1031, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf used on inpu
+t line 203.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+File: plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf used on inpu
+t line 204.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+File: plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch0_adc0-1.pdf used on inpu
+t line 209.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch0_adc1-1.pdf, id=1035, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch0_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch0_adc1-1.pdf used on inpu
+t line 210.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch0_adcPedsub-1.pdf, id=1037, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch0_adcPedsub-1.pdf used on
+ input line 211.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 213.
+
+[3 <./plotsdir/file0_test-N3nhits-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_test-N4nhits-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-
+N5nhits-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-N6nhits-1.pdf
+, page is rotated 90 degrees> <./plotsdir/file0_test-N7nhits-1.pdf, page is rot
+ated 90 degrees> <./plotsdir/file0_test-N8nhits-1.pdf, page is rotated 90 degre
+es> <./plotsdir/file0_test-nHits-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_test-LayerNum-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-
+L0Ch-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-L1Ch-1.pdf, page
+ is rotated 90 degrees> <./plotsdir/file0_test-L2Ch-1.pdf, page is rotated 90 d
+egrees> <./plotsdir/file0_test-L3Ch-1.pdf, page is rotated 90 degrees> <./plots
+dir/file0_test-adcL0ChAll-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_
+test-adcL1ChAll-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-adcL2
+ChAll-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer0_Ch1_adc0-1.pdf, id=1711, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch1_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch1_adc0-1.pdf used on inpu
+t line 216.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch1_adc1-1.pdf, id=1713, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch1_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch1_adc1-1.pdf used on inpu
+t line 217.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch1_adcPedsub-1.pdf, id=1715, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch1_adcPedsub-1.pdf used on
+ input line 218.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 221.
+
+[4 <./plotsdir/file0_test-adcL3ChAll-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer0_Ch0_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/
+file0_test-Layer0_Ch0_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer0_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer0_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test
+-Layer0_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r0_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer0_Ch2_adc0-1.pdf, id=2035, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch2_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch2_adc0-1.pdf used on inpu
+t line 224.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch2_adc1-1.pdf, id=2037, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch2_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch2_adc1-1.pdf used on inpu
+t line 225.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch2_adcPedsub-1.pdf, id=2039, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch2_adcPedsub-1.pdf used on
+ input line 226.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch3_adc0-1.pdf, id=2041, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch3_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch3_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch3_adc0-1.pdf used on inpu
+t line 231.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch3_adc1-1.pdf, id=2043, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch3_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch3_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch3_adc1-1.pdf used on inpu
+t line 232.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch3_adcPedsub-1.pdf, id=2045, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch3_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch3_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch3_adcPedsub-1.pdf used on
+ input line 233.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch4_adc0-1.pdf, id=2047, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch4_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch4_adc0-1.pdf used on inpu
+t line 238.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch4_adc1-1.pdf, id=2049, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch4_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch4_adc1-1.pdf used on inpu
+t line 239.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch4_adcPedsub-1.pdf, id=2051, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch4_adcPedsub-1.pdf used on
+ input line 240.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch5_adc0-1.pdf, id=2053, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch5_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch5_adc0-1.pdf used on inpu
+t line 245.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch5_adc1-1.pdf, id=2055, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch5_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch5_adc1-1.pdf used on inpu
+t line 246.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch5_adcPedsub-1.pdf, id=2057, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch5_adcPedsub-1.pdf used on
+ input line 247.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch6_adc0-1.pdf, id=2059, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch6_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch6_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch6_adc0-1.pdf used on inpu
+t line 252.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch6_adc1-1.pdf, id=2061, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch6_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch6_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch6_adc1-1.pdf used on inpu
+t line 253.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch6_adcPedsub-1.pdf, id=2063, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch6_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch6_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch6_adcPedsub-1.pdf used on
+ input line 254.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch7_adc0-1.pdf, id=2065, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch7_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch7_adc0-1.pdf used on inpu
+t line 259.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch7_adc1-1.pdf, id=2067, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch7_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch7_adc1-1.pdf used on inpu
+t line 260.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch7_adcPedsub-1.pdf, id=2069, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch7_adcPedsub-1.pdf used on
+ input line 261.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch8_adc0-1.pdf, id=2071, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch8_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch8_adc0-1.pdf used on inpu
+t line 266.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch8_adc1-1.pdf, id=2073, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch8_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch8_adc1-1.pdf used on inpu
+t line 267.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch8_adcPedsub-1.pdf, id=2075, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch8_adcPedsub-1.pdf used on
+ input line 268.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 270.
+
+[5
+
+ <./plotsdir/file0_test-Layer0_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_test-Layer0_Ch2_adc1-1.pdf, page is rotated 90 degrees> <./plotsd
+ir/file0_test-Layer0_Ch2_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsd
+ir/file0_test-Layer0_Ch3_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_test-Layer0_Ch3_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_t
+est-Layer0_Ch3_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_t
+est-Layer0_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-L
+ayer0_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0
+_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0
+_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_Ch5_
+adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_Ch5_adcPe
+dsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_Ch6_adc0-
+1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_Ch6_adc1-1.pdf
+, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_Ch6_adcPedsub-1.pdf
+, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer0_Ch9_adc0-1.pdf, id=2749, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch9_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch9_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch9_adc0-1.pdf used on inpu
+t line 273.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch9_adc1-1.pdf, id=2751, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch9_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer0_Ch9_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch9_adc1-1.pdf used on inpu
+t line 274.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch9_adcPedsub-1.pdf, id=2753, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer0_Ch9_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch9_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch9_adcPedsub-1.pdf used on
+ input line 275.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch10_adc0-1.pdf, id=2755, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch10_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_test-Layer0_Ch10_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch10_adc0-1.pdf used on inp
+ut line 280.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch10_adc1-1.pdf, id=2757, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer0_Ch10_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_test-Layer0_Ch10_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch10_adc1-1.pdf used on inp
+ut line 281.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer0_Ch10_adcPedsub-1.pdf, id=2759, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_test-Layer0_Ch10_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer0_Ch10_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer0_Ch10_adcPedsub-1.pdf used o
+n input line 282.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch0_adc0-1.pdf, id=2761, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch0_adc0-1.pdf used on inpu
+t line 287.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch0_adc1-1.pdf, id=2763, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch0_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch0_adc1-1.pdf used on inpu
+t line 288.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch0_adcPedsub-1.pdf, id=2765, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch0_adcPedsub-1.pdf used on
+ input line 289.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch1_adc0-1.pdf, id=2767, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch1_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch1_adc0-1.pdf used on inpu
+t line 294.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch1_adc1-1.pdf, id=2769, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch1_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch1_adc1-1.pdf used on inpu
+t line 295.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch1_adcPedsub-1.pdf, id=2771, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch1_adcPedsub-1.pdf used on
+ input line 296.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch2_adc0-1.pdf, id=2773, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch2_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch2_adc0-1.pdf used on inpu
+t line 301.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch2_adc1-1.pdf, id=2775, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch2_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch2_adc1-1.pdf used on inpu
+t line 302.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch2_adcPedsub-1.pdf, id=2777, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch2_adcPedsub-1.pdf used on
+ input line 303.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 305.
+
+[6 <./plotsdir/file0_test-Layer0_Ch7_adc0-1.pdf, page is rotated 90 degrees> <.
+/plotsdir/file0_test-Layer0_Ch7_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer0_Ch7_adcPedsub-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer0_Ch8_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/
+file0_test-Layer0_Ch8_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer0_Ch8_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer0_Ch9_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test
+-Layer0_Ch9_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r0_Ch9_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r0_Ch10_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_C
+h10_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer0_Ch10_
+adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch0_
+adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch0_adc1-
+1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch0_adcPedsub-
+1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer1_Ch4_adc0-1.pdf, id=3451, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch4_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch4_adc0-1.pdf used on inpu
+t line 308.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch4_adc1-1.pdf, id=3453, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch4_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch4_adc1-1.pdf used on inpu
+t line 309.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch4_adcPedsub-1.pdf, id=3455, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch4_adcPedsub-1.pdf used on
+ input line 310.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch5_adc0-1.pdf, id=3457, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch5_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch5_adc0-1.pdf used on inpu
+t line 315.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch5_adc1-1.pdf, id=3459, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch5_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch5_adc1-1.pdf used on inpu
+t line 316.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch5_adcPedsub-1.pdf, id=3461, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch5_adcPedsub-1.pdf used on
+ input line 317.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch7_adc0-1.pdf, id=3463, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch7_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch7_adc0-1.pdf used on inpu
+t line 322.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch7_adc1-1.pdf, id=3465, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch7_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch7_adc1-1.pdf used on inpu
+t line 323.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch7_adcPedsub-1.pdf, id=3467, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch7_adcPedsub-1.pdf used on
+ input line 324.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 327.
+
+[7 <./plotsdir/file0_test-Layer1_Ch1_adc0-1.pdf, page is rotated 90 degrees> <.
+/plotsdir/file0_test-Layer1_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer1_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer1_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/
+file0_test-Layer1_Ch2_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer1_Ch2_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer1_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test
+-Layer1_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r1_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r1_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch
+5_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch5_adc
+Pedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch7_adc
+0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch7_adc1-1.p
+df, page is rotated 90 degrees> <./plotsdir/file0_test-Layer1_Ch7_adcPedsub-1.p
+df, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer1_Ch8_adc0-1.pdf, id=4142, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch8_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch8_adc0-1.pdf used on inpu
+t line 330.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch8_adc1-1.pdf, id=4144, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer1_Ch8_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer1_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch8_adc1-1.pdf used on inpu
+t line 331.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer1_Ch8_adcPedsub-1.pdf, id=4146, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer1_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer1_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer1_Ch8_adcPedsub-1.pdf used on
+ input line 332.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch0_adc0-1.pdf, id=4148, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch0_adc0-1.pdf used on inpu
+t line 337.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch0_adc1-1.pdf, id=4150, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch0_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch0_adc1-1.pdf used on inpu
+t line 338.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch0_adcPedsub-1.pdf, id=4152, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch0_adcPedsub-1.pdf used on
+ input line 339.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch1_adc0-1.pdf, id=4154, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch1_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch1_adc0-1.pdf used on inpu
+t line 344.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch1_adc1-1.pdf, id=4156, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch1_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch1_adc1-1.pdf used on inpu
+t line 345.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch1_adcPedsub-1.pdf, id=4158, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch1_adcPedsub-1.pdf used on
+ input line 346.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch2_adc0-1.pdf, id=4160, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch2_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch2_adc0-1.pdf used on inpu
+t line 351.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch2_adc1-1.pdf, id=4162, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch2_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch2_adc1-1.pdf used on inpu
+t line 352.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch2_adcPedsub-1.pdf, id=4164, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch2_adcPedsub-1.pdf used on
+ input line 353.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch3_adc0-1.pdf, id=4166, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch3_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch3_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch3_adc0-1.pdf used on inpu
+t line 358.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch3_adc1-1.pdf, id=4168, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch3_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch3_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch3_adc1-1.pdf used on inpu
+t line 359.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch3_adcPedsub-1.pdf, id=4170, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch3_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch3_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch3_adcPedsub-1.pdf used on
+ input line 360.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch4_adc0-1.pdf, id=4172, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch4_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch4_adc0-1.pdf used on inpu
+t line 365.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch4_adc1-1.pdf, id=4174, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch4_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch4_adc1-1.pdf used on inpu
+t line 366.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch4_adcPedsub-1.pdf, id=4176, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch4_adcPedsub-1.pdf used on
+ input line 367.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch5_adc0-1.pdf, id=4178, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch5_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch5_adc0-1.pdf used on inpu
+t line 372.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch5_adc1-1.pdf, id=4180, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch5_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch5_adc1-1.pdf used on inpu
+t line 373.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch5_adcPedsub-1.pdf, id=4182, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch5_adcPedsub-1.pdf used on
+ input line 374.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 376.
+
+[8
+
+ <./plotsdir/file0_test-Layer1_Ch8_adc0-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_test-Layer1_Ch8_adc1-1.pdf, page is rotated 90 degrees> <./plotsd
+ir/file0_test-Layer1_Ch8_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsd
+ir/file0_test-Layer2_Ch0_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_test-Layer2_Ch0_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_t
+est-Layer2_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_t
+est-Layer2_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-L
+ayer2_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2
+_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2
+_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch2_
+adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch2_adcPe
+dsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch3_adc0-
+1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch3_adc1-1.pdf
+, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch3_adcPedsub-1.pdf
+, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer2_Ch6_adc0-1.pdf, id=4856, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch6_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch6_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch6_adc0-1.pdf used on inpu
+t line 379.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch6_adc1-1.pdf, id=4858, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch6_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch6_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch6_adc1-1.pdf used on inpu
+t line 380.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch6_adcPedsub-1.pdf, id=4860, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch6_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch6_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch6_adcPedsub-1.pdf used on
+ input line 381.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch7_adc0-1.pdf, id=4862, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch7_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch7_adc0-1.pdf used on inpu
+t line 386.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch7_adc1-1.pdf, id=4864, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch7_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch7_adc1-1.pdf used on inpu
+t line 387.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch7_adcPedsub-1.pdf, id=4866, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch7_adcPedsub-1.pdf used on
+ input line 388.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch8_adc0-1.pdf, id=4868, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch8_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch8_adc0-1.pdf used on inpu
+t line 393.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch8_adc1-1.pdf, id=4870, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch8_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch8_adc1-1.pdf used on inpu
+t line 394.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch8_adcPedsub-1.pdf, id=4872, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch8_adcPedsub-1.pdf used on
+ input line 395.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch9_adc0-1.pdf, id=4874, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch9_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch9_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch9_adc0-1.pdf used on inpu
+t line 400.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch9_adc1-1.pdf, id=4876, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer2_Ch9_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer2_Ch9_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch9_adc1-1.pdf used on inpu
+t line 401.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer2_Ch9_adcPedsub-1.pdf, id=4878, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer2_Ch9_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer2_Ch9_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer2_Ch9_adcPedsub-1.pdf used on
+ input line 402.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch0_adc0-1.pdf, id=4880, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch0_adc0-1.pdf used on inpu
+t line 407.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch0_adc1-1.pdf, id=4882, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch0_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch0_adc1-1.pdf used on inpu
+t line 408.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch0_adcPedsub-1.pdf, id=4884, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch0_adcPedsub-1.pdf used on
+ input line 409.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 411.
+
+[9 <./plotsdir/file0_test-Layer2_Ch4_adc0-1.pdf, page is rotated 90 degrees> <.
+/plotsdir/file0_test-Layer2_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer2_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_test-Layer2_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/
+file0_test-Layer2_Ch5_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer2_Ch5_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_test-Layer2_Ch6_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test
+-Layer2_Ch6_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r2_Ch6_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Laye
+r2_Ch7_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch
+7_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch7_adc
+Pedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch8_adc
+0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch8_adc1-1.p
+df, page is rotated 90 degrees> <./plotsdir/file0_test-Layer2_Ch8_adcPedsub-1.p
+df, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer3_Ch1_adc0-1.pdf, id=5558, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch1_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch1_adc0-1.pdf used on inpu
+t line 414.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch1_adc1-1.pdf, id=5560, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch1_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch1_adc1-1.pdf used on inpu
+t line 415.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch1_adcPedsub-1.pdf, id=5562, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch1_adcPedsub-1.pdf used on
+ input line 416.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch2_adc0-1.pdf, id=5564, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch2_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch2_adc0-1.pdf used on inpu
+t line 421.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch2_adc1-1.pdf, id=5566, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch2_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch2_adc1-1.pdf used on inpu
+t line 422.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch2_adcPedsub-1.pdf, id=5568, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch2_adcPedsub-1.pdf used on
+ input line 423.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch3_adc0-1.pdf, id=5570, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch3_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch3_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch3_adc0-1.pdf used on inpu
+t line 428.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch3_adc1-1.pdf, id=5572, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch3_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch3_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch3_adc1-1.pdf used on inpu
+t line 429.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch3_adcPedsub-1.pdf, id=5574, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch3_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch3_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch3_adcPedsub-1.pdf used on
+ input line 430.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 433.
+
+[10 <./plotsdir/file0_test-Layer2_Ch9_adc0-1.pdf, page is rotated 90 degrees> <
+./plotsdir/file0_test-Layer2_Ch9_adc1-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_test-Layer2_Ch9_adcPedsub-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_test-Layer3_Ch0_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_test-Layer3_Ch0_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file
+0_test-Layer3_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file
+0_test-Layer3_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_tes
+t-Layer3_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Lay
+er3_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Lay
+er3_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_C
+h2_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch2_ad
+cPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch3_ad
+c0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch3_adc1-1.
+pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch3_adcPedsub-1.
+pdf, page is rotated 90 degrees>]
+<plotsdir/file0_test-Layer3_Ch4_adc0-1.pdf, id=6248, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch4_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch4_adc0-1.pdf used on inpu
+t line 436.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch4_adc1-1.pdf, id=6250, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch4_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch4_adc1-1.pdf used on inpu
+t line 437.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch4_adcPedsub-1.pdf, id=6252, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch4_adcPedsub-1.pdf used on
+ input line 438.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch5_adc0-1.pdf, id=6254, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch5_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch5_adc0-1.pdf used on inpu
+t line 443.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch5_adc1-1.pdf, id=6256, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch5_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch5_adc1-1.pdf used on inpu
+t line 444.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch5_adcPedsub-1.pdf, id=6258, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch5_adcPedsub-1.pdf used on
+ input line 445.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch6_adc0-1.pdf, id=6260, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch6_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch6_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch6_adc0-1.pdf used on inpu
+t line 450.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch6_adc1-1.pdf, id=6262, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch6_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch6_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch6_adc1-1.pdf used on inpu
+t line 451.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch6_adcPedsub-1.pdf, id=6264, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch6_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch6_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch6_adcPedsub-1.pdf used on
+ input line 452.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch7_adc0-1.pdf, id=6266, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch7_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch7_adc0-1.pdf used on inpu
+t line 457.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch7_adc1-1.pdf, id=6268, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch7_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch7_adc1-1.pdf used on inpu
+t line 458.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch7_adcPedsub-1.pdf, id=6270, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch7_adcPedsub-1.pdf used on
+ input line 459.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch8_adc0-1.pdf, id=6272, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch8_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch8_adc0-1.pdf used on inpu
+t line 464.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch8_adc1-1.pdf, id=6274, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch8_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch8_adc1-1.pdf used on inpu
+t line 465.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch8_adcPedsub-1.pdf, id=6276, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch8_adcPedsub-1.pdf used on
+ input line 466.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch9_adc0-1.pdf, id=6278, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch9_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch9_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch9_adc0-1.pdf used on inpu
+t line 471.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch9_adc1-1.pdf, id=6280, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Layer3_Ch9_adc1-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Layer3_Ch9_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch9_adc1-1.pdf used on inpu
+t line 472.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Layer3_Ch9_adcPedsub-1.pdf, id=6282, 569.12625pt x 363.357
+5pt>
+File: plotsdir/file0_test-Layer3_Ch9_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_test-Layer3_Ch9_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Layer3_Ch9_adcPedsub-1.pdf used on
+ input line 473.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-dt-1.pdf, id=6284, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-dt-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-dt-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-dt-1.pdf used on input line 478.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-dt2-1.pdf, id=6286, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-dt2-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-dt2-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-dt2-1.pdf used on input line 479.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-X0a-1.pdf, id=6288, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-X0a-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-X0a-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-X0a-1.pdf used on input line 480.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 482.
+
+[11
+
+ <./plotsdir/file0_test-Layer3_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_test-Layer3_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsd
+ir/file0_test-Layer3_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsd
+ir/file0_test-Layer3_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_test-Layer3_Ch5_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_t
+est-Layer3_Ch5_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_t
+est-Layer3_Ch6_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-L
+ayer3_Ch6_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3
+_Ch6_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3
+_Ch7_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch7_
+adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch7_adcPe
+dsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch8_adc0-
+1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch8_adc1-1.pdf
+, page is rotated 90 degrees> <./plotsdir/file0_test-Layer3_Ch8_adcPedsub-1.pdf
+, page is rotated 90 degrees>]
+<plotsdir/file0_test-Y1a-1.pdf, id=6962, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Y1a-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Y1a-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Y1a-1.pdf used on input line 485.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-X0b-1.pdf, id=6964, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-X0b-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-X0b-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-X0b-1.pdf used on input line 486.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-Y1b-1.pdf, id=6966, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-Y1b-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-Y1b-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-Y1b-1.pdf used on input line 487.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-nMuonEvents-1.pdf, id=6968, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-nMuonEvents-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-nMuonEvents-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-nMuonEvents-1.pdf used on input li
+ne 492.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-nMuons-1.pdf, id=6970, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-nMuons-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-nMuons-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-nMuons-1.pdf used on input line 49
+3.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-muX-1.pdf, id=6972, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-muX-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-muX-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-muX-1.pdf used on input line 494.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-muY-1.pdf, id=6974, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-muY-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-muY-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-muY-1.pdf used on input line 499.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-muXS-1.pdf, id=6976, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-muXS-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-muXS-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-muXS-1.pdf used on input line 500.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-muYS-1.pdf, id=6978, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-muYS-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-muYS-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-muYS-1.pdf used on input line 501.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_test-muTheta-1.pdf, id=6980, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_test-muTheta-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_test-muTheta-1.pdf>
+Package pdftex.def Info: plotsdir/file0_test-muTheta-1.pdf used on input line 5
+06.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 509.
+
+[12 <./plotsdir/file0_test-Layer3_Ch9_adc0-1.pdf, page is rotated 90 degrees> <
+./plotsdir/file0_test-Layer3_Ch9_adc1-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_test-Layer3_Ch9_adcPedsub-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_test-dt-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-d
+t2-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-X0a-1.pdf, page is
+ rotated 90 degrees> <./plotsdir/file0_test-Y1a-1.pdf, page is rotated 90 degre
+es> <./plotsdir/file0_test-X0b-1.pdf, page is rotated 90 degrees> <./plotsdir/f
+ile0_test-Y1b-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-nMuonEv
+ents-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-nMuons-1.pdf, pa
+ge is rotated 90 degrees> <./plotsdir/file0_test-muX-1.pdf, page is rotated 90 
+degrees> <./plotsdir/file0_test-muY-1.pdf, page is rotated 90 degrees> <./plots
+dir/file0_test-muXS-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_test-m
+uYS-1.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 509.
+
+[13 <./plotsdir/file0_test-muTheta-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_clusters-nClusters-1.pdf, id=7704, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-nClusters-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-nClusters-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-nClusters-1.pdf used on input 
+line 516.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-nHitsPerCluster-1.pdf, id=7706, 569.12625pt x 363.3575
+pt>
+File: plotsdir/file0_clusters-nHitsPerCluster-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_clusters-nHitsPerCluster-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-nHitsPerCluster-1.pdf used on 
+input line 517.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL0Chs-1.pdf, id=7708, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL0Chs-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL0Chs-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL0Chs-1.pdf used on input li
+ne 518.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL1Chs-1.pdf, id=7710, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL1Chs-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL1Chs-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL1Chs-1.pdf used on input li
+ne 523.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL2Chs-1.pdf, id=7712, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL2Chs-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL2Chs-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL2Chs-1.pdf used on input li
+ne 524.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL3Chs-1.pdf, id=7714, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL3Chs-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL3Chs-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL3Chs-1.pdf used on input li
+ne 525.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL0nHits-1.pdf, id=7716, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL0nHits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL0nHits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL0nHits-1.pdf used on input 
+line 530.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL1nHits-1.pdf, id=7718, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL1nHits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL1nHits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL1nHits-1.pdf used on input 
+line 531.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL2nHits-1.pdf, id=7720, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL2nHits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL2nHits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL2nHits-1.pdf used on input 
+line 532.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_clusters-hcL3nHits-1.pdf, id=7722, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_clusters-hcL3nHits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_clusters-hcL3nHits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_clusters-hcL3nHits-1.pdf used on input 
+line 537.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 540.
+
+[14 <./plotsdir/file0_clusters-nClusters-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_clusters-nHitsPerCluster-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_clusters-hcL0Chs-1.pdf, page is rotated 90 degrees> <./plotsdir/f
+ile0_clusters-hcL1Chs-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_clus
+ters-hcL2Chs-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_clusters-hcL3
+Chs-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_clusters-hcL0nHits-1.p
+df, page is rotated 90 degrees> <./plotsdir/file0_clusters-hcL1nHits-1.pdf, pag
+e is rotated 90 degrees> <./plotsdir/file0_clusters-hcL2nHits-1.pdf, page is ro
+tated 90 degrees> <./plotsdir/file0_clusters-hcL3nHits-1.pdf, page is rotated 9
+0 degrees>]
+<plotsdir/file0_muons-nMuonEvents-1.pdf, id=8175, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-nMuonEvents-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-nMuonEvents-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-nMuonEvents-1.pdf used on input l
+ine 548.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-nMuons-1.pdf, id=8177, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-nMuons-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-nMuons-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-nMuons-1.pdf used on input line 5
+49.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-muX-1.pdf, id=8179, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-muX-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-muX-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-muX-1.pdf used on input line 550.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-muY-1.pdf, id=8181, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-muY-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-muY-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-muY-1.pdf used on input line 555.
+
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-muXS-1.pdf, id=8183, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-muXS-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-muXS-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-muXS-1.pdf used on input line 556
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-muYS-1.pdf, id=8185, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-muYS-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-muYS-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-muYS-1.pdf used on input line 557
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-muTheta-1.pdf, id=8187, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-muTheta-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-muTheta-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-muTheta-1.pdf used on input line 
+562.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N1MasterTime-1.pdf, id=8189, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N1MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N1MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N1MasterTime-1.pdf used on input 
+line 563.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N2MasterTime-1.pdf, id=8191, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N2MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N2MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N2MasterTime-1.pdf used on input 
+line 564.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N3MasterTime-1.pdf, id=8193, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N3MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N3MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N3MasterTime-1.pdf used on input 
+line 569.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N4MasterTime-1.pdf, id=8195, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N4MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N4MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N4MasterTime-1.pdf used on input 
+line 570.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N5MasterTime-1.pdf, id=8197, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N5MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N5MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N5MasterTime-1.pdf used on input 
+line 571.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N6MasterTime-1.pdf, id=8199, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N6MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N6MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N6MasterTime-1.pdf used on input 
+line 576.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N7MasterTime-1.pdf, id=8201, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N7MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N7MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N7MasterTime-1.pdf used on input 
+line 577.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-N8MasterTime-1.pdf, id=8203, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-N8MasterTime-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-N8MasterTime-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-N8MasterTime-1.pdf used on input 
+line 578.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-nHits-1.pdf, id=8205, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-nHits-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-nHits-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-nHits-1.pdf used on input line 58
+3.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-LayerNum-1.pdf, id=8207, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-LayerNum-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-LayerNum-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-LayerNum-1.pdf used on input line
+ 584.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-L0Ch-1.pdf, id=8209, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-L0Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-L0Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-L0Ch-1.pdf used on input line 585
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 587.
+
+[15 <./plotsdir/file0_muons-nMuonEvents-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_muons-nMuons-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-muX-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-muY-1.pdf
+, page is rotated 90 degrees> <./plotsdir/file0_muons-muXS-1.pdf, page is rotat
+ed 90 degrees> <./plotsdir/file0_muons-muYS-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-muTheta-1.pdf, page is rotated 90 degrees> <./plotsdir/
+file0_muons-N1MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_m
+uons-N2MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-N3
+MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-N4MasterT
+ime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-N5MasterTime-1.p
+df, page is rotated 90 degrees>]
+<plotsdir/file0_muons-L1Ch-1.pdf, id=8750, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-L1Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-L1Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-L1Ch-1.pdf used on input line 590
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-L2Ch-1.pdf, id=8752, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-L2Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-L2Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-L2Ch-1.pdf used on input line 591
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-L3Ch-1.pdf, id=8754, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-L3Ch-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-L3Ch-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-L3Ch-1.pdf used on input line 592
+.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-adcL0ChAll-1.pdf, id=8756, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-adcL0ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-adcL0ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-adcL0ChAll-1.pdf used on input li
+ne 597.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-adcL1ChAll-1.pdf, id=8758, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-adcL1ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-adcL1ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-adcL1ChAll-1.pdf used on input li
+ne 598.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-adcL2ChAll-1.pdf, id=8760, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-adcL2ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-adcL2ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-adcL2ChAll-1.pdf used on input li
+ne 599.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-adcL3ChAll-1.pdf, id=8762, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-adcL3ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-adcL3ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-adcL3ChAll-1.pdf used on input li
+ne 604.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+File: plotsdir/file0_muons-adcL3ChAll-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-adcL3ChAll-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-adcL3ChAll-1.pdf used on input li
+ne 605.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf, id=8765, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf used on inp
+ut line 606.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+File: plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf used on inp
+ut line 611.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch0_adc1-1.pdf, id=8768, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch0_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch0_adc1-1.pdf used on inp
+ut line 612.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch0_adcPedsub-1.pdf, id=8770, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_muons-Layer0_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch0_adcPedsub-1.pdf used o
+n input line 613.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch1_adc0-1.pdf, id=8772, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch1_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch1_adc0-1.pdf used on inp
+ut line 618.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch1_adc1-1.pdf, id=8774, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch1_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch1_adc1-1.pdf used on inp
+ut line 619.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch1_adcPedsub-1.pdf, id=8776, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_muons-Layer0_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch1_adcPedsub-1.pdf used o
+n input line 620.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 622.
+
+[16 <./plotsdir/file0_muons-N6MasterTime-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-N7MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-N8MasterTime-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-nHits-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-LayerNu
+m-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-L0Ch-1.pdf, page i
+s rotated 90 degrees> <./plotsdir/file0_muons-L1Ch-1.pdf, page is rotated 90 de
+grees> <./plotsdir/file0_muons-L2Ch-1.pdf, page is rotated 90 degrees> <./plots
+dir/file0_muons-L3Ch-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons
+-adcL0ChAll-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-adcL1ChA
+ll-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-adcL2ChAll-1.pdf,
+ page is rotated 90 degrees> <./plotsdir/file0_muons-adcL3ChAll-1.pdf, page is 
+rotated 90 degrees> <./plotsdir/file0_muons-Layer0_Ch0_adc0-1.pdf, page is rota
+ted 90 degrees>]
+<plotsdir/file0_muons-Layer0_Ch2_adc0-1.pdf, id=9407, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch2_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch2_adc0-1.pdf used on inp
+ut line 625.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch2_adc1-1.pdf, id=9409, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch2_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch2_adc1-1.pdf used on inp
+ut line 626.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch2_adcPedsub-1.pdf, id=9411, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_muons-Layer0_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch2_adcPedsub-1.pdf used o
+n input line 627.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch3_adc0-1.pdf, id=9413, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch3_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch3_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch3_adc0-1.pdf used on inp
+ut line 632.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch3_adc1-1.pdf, id=9415, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch3_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch3_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch3_adc1-1.pdf used on inp
+ut line 633.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch3_adcPedsub-1.pdf, id=9417, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_muons-Layer0_Ch3_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch3_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch3_adcPedsub-1.pdf used o
+n input line 634.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch4_adc0-1.pdf, id=9419, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch4_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch4_adc0-1.pdf used on inp
+ut line 639.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch4_adc1-1.pdf, id=9421, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch4_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch4_adc1-1.pdf used on inp
+ut line 640.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch4_adcPedsub-1.pdf, id=9423, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_muons-Layer0_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch4_adcPedsub-1.pdf used o
+n input line 641.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch5_adc0-1.pdf, id=9425, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch5_adc0-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch5_adc0-1.pdf used on inp
+ut line 646.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch5_adc1-1.pdf, id=9427, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_muons-Layer0_Ch5_adc1-1.pdf Graphic file (type pdf)
+<use plotsdir/file0_muons-Layer0_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch5_adc1-1.pdf used on inp
+ut line 647.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch5_adcPedsub-1.pdf, id=9429, 569.12625pt x 363.35
+75pt>
+File: plotsdir/file0_muons-Layer0_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch5_adcPedsub-1.pdf used o
+n input line 648.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 651.
+
+[17 <./plotsdir/file0_muons-Layer0_Ch0_adc1-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-Layer0_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees>
+ <./plotsdir/file0_muons-Layer0_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer0_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer0_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_muons-Layer0_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer0_Ch2_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer0_Ch2_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/f
+ile0_muons-Layer0_Ch3_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer0_Ch3_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer0_Ch3_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_mu
+ons-Layer0_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer0_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r0_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 651.
+
+[18 <./plotsdir/file0_muons-Layer0_Ch5_adc0-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-Layer0_Ch5_adc1-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_muons-Layer0_Ch5_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer0_Ch6_adc0-1.pdf, id=10197, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch6_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch6_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch6_adc0-1.pdf used on inp
+ut line 654.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch6_adc1-1.pdf, id=10199, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch6_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch6_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch6_adc1-1.pdf used on inp
+ut line 655.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch6_adcPedsub-1.pdf, id=10201, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer0_Ch6_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch6_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch6_adcPedsub-1.pdf used o
+n input line 656.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch7_adc0-1.pdf, id=10203, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch7_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch7_adc0-1.pdf used on inp
+ut line 661.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch7_adc1-1.pdf, id=10205, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch7_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch7_adc1-1.pdf used on inp
+ut line 662.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch7_adcPedsub-1.pdf, id=10207, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer0_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch7_adcPedsub-1.pdf used o
+n input line 663.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch8_adc0-1.pdf, id=10209, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch8_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch8_adc0-1.pdf used on inp
+ut line 668.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch8_adc1-1.pdf, id=10211, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch8_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch8_adc1-1.pdf used on inp
+ut line 669.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch8_adcPedsub-1.pdf, id=10213, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer0_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch8_adcPedsub-1.pdf used o
+n input line 670.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch9_adc0-1.pdf, id=10215, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch9_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch9_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch9_adc0-1.pdf used on inp
+ut line 675.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch9_adc1-1.pdf, id=10217, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer0_Ch9_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch9_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch9_adc1-1.pdf used on inp
+ut line 676.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch9_adcPedsub-1.pdf, id=10219, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer0_Ch9_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch9_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch9_adcPedsub-1.pdf used o
+n input line 677.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch10_adc0-1.pdf, id=10221, 569.12625pt x 363.3575p
+t>
+File: plotsdir/file0_muons-Layer0_Ch10_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch10_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch10_adc0-1.pdf used on in
+put line 682.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch10_adc1-1.pdf, id=10223, 569.12625pt x 363.3575p
+t>
+File: plotsdir/file0_muons-Layer0_Ch10_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch10_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch10_adc1-1.pdf used on in
+put line 683.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer0_Ch10_adcPedsub-1.pdf, id=10225, 569.12625pt x 363.
+3575pt>
+File: plotsdir/file0_muons-Layer0_Ch10_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer0_Ch10_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer0_Ch10_adcPedsub-1.pdf used 
+on input line 684.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch0_adc0-1.pdf, id=10227, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch0_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch0_adc0-1.pdf used on inp
+ut line 689.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch0_adc1-1.pdf, id=10229, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch0_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch0_adc1-1.pdf used on inp
+ut line 690.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch0_adcPedsub-1.pdf, id=10231, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch0_adcPedsub-1.pdf used o
+n input line 691.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch1_adc0-1.pdf, id=10233, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch1_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch1_adc0-1.pdf used on inp
+ut line 696.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch1_adc1-1.pdf, id=10235, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch1_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch1_adc1-1.pdf used on inp
+ut line 697.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch1_adcPedsub-1.pdf, id=10237, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch1_adcPedsub-1.pdf used o
+n input line 698.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 700.
+
+[19
+
+ <./plotsdir/file0_muons-Layer0_Ch6_adc0-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer0_Ch6_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer0_Ch6_adcPedsub-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_muons-Layer0_Ch7_adc0-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer0_Ch7_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer0_Ch7_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/f
+ile0_muons-Layer0_Ch8_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer0_Ch8_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer0_Ch8_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_mu
+ons-Layer0_Ch9_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer0_Ch9_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r0_Ch9_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Lay
+er0_Ch10_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer0
+_Ch10_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer0_Ch
+10_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer1_Ch2_adc0-1.pdf, id=10912, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch2_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch2_adc0-1.pdf used on inp
+ut line 703.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch2_adc1-1.pdf, id=10914, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch2_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch2_adc1-1.pdf used on inp
+ut line 704.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch2_adcPedsub-1.pdf, id=10916, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch2_adcPedsub-1.pdf used o
+n input line 705.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch4_adc0-1.pdf, id=10918, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch4_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch4_adc0-1.pdf used on inp
+ut line 710.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch4_adc1-1.pdf, id=10920, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch4_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch4_adc1-1.pdf used on inp
+ut line 711.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch4_adcPedsub-1.pdf, id=10922, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch4_adcPedsub-1.pdf used o
+n input line 712.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch5_adc0-1.pdf, id=10924, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch5_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch5_adc0-1.pdf used on inp
+ut line 717.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch5_adc1-1.pdf, id=10926, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch5_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch5_adc1-1.pdf used on inp
+ut line 718.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch5_adcPedsub-1.pdf, id=10928, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch5_adcPedsub-1.pdf used o
+n input line 719.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch7_adc0-1.pdf, id=10930, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch7_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch7_adc0-1.pdf used on inp
+ut line 724.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch7_adc1-1.pdf, id=10932, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch7_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch7_adc1-1.pdf used on inp
+ut line 725.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch7_adcPedsub-1.pdf, id=10934, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch7_adcPedsub-1.pdf used o
+n input line 726.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch8_adc0-1.pdf, id=10936, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch8_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch8_adc0-1.pdf used on inp
+ut line 731.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch8_adc1-1.pdf, id=10938, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer1_Ch8_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch8_adc1-1.pdf used on inp
+ut line 732.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer1_Ch8_adcPedsub-1.pdf, id=10940, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer1_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer1_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer1_Ch8_adcPedsub-1.pdf used o
+n input line 733.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 735.
+
+[20 <./plotsdir/file0_muons-Layer1_Ch0_adc0-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-Layer1_Ch0_adc1-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_muons-Layer1_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer1_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer1_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_muons-Layer1_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer1_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer1_Ch2_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_
+muons-Layer1_Ch2_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer1_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer1_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-L
+ayer1_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer1_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r1_Ch5_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer1_C
+h5_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer2_Ch0_adc0-1.pdf, id=11614, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch0_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch0_adc0-1.pdf used on inp
+ut line 738.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch0_adc1-1.pdf, id=11616, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch0_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch0_adc1-1.pdf used on inp
+ut line 739.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch0_adcPedsub-1.pdf, id=11618, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch0_adcPedsub-1.pdf used o
+n input line 740.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch1_adc0-1.pdf, id=11620, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch1_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch1_adc0-1.pdf used on inp
+ut line 745.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch1_adc1-1.pdf, id=11622, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch1_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch1_adc1-1.pdf used on inp
+ut line 746.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch1_adcPedsub-1.pdf, id=11624, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch1_adcPedsub-1.pdf used o
+n input line 747.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch2_adc0-1.pdf, id=11626, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch2_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch2_adc0-1.pdf used on inp
+ut line 752.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch2_adc1-1.pdf, id=11628, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch2_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch2_adc1-1.pdf used on inp
+ut line 753.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch2_adcPedsub-1.pdf, id=11630, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch2_adcPedsub-1.pdf used o
+n input line 754.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 757.
+
+[21 <./plotsdir/file0_muons-Layer1_Ch7_adc0-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-Layer1_Ch7_adc1-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_muons-Layer1_Ch7_adcPedsub-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer1_Ch8_adc0-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer1_Ch8_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_muons-Layer1_Ch8_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer2_Ch0_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer2_Ch0_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_
+muons-Layer2_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer2_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer2_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-L
+ayer2_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer2_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r2_Ch2_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer2_C
+h2_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer2_Ch3_adc0-1.pdf, id=12304, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch3_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch3_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch3_adc0-1.pdf used on inp
+ut line 760.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch3_adc1-1.pdf, id=12306, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch3_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch3_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch3_adc1-1.pdf used on inp
+ut line 761.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch3_adcPedsub-1.pdf, id=12308, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch3_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch3_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch3_adcPedsub-1.pdf used o
+n input line 762.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch4_adc0-1.pdf, id=12310, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch4_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch4_adc0-1.pdf used on inp
+ut line 767.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch4_adc1-1.pdf, id=12312, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch4_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch4_adc1-1.pdf used on inp
+ut line 768.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch4_adcPedsub-1.pdf, id=12314, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch4_adcPedsub-1.pdf used o
+n input line 769.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch5_adc0-1.pdf, id=12316, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch5_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch5_adc0-1.pdf used on inp
+ut line 774.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch5_adc1-1.pdf, id=12318, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch5_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch5_adc1-1.pdf used on inp
+ut line 775.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch5_adcPedsub-1.pdf, id=12320, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch5_adcPedsub-1.pdf used o
+n input line 776.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch6_adc0-1.pdf, id=12322, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch6_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch6_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch6_adc0-1.pdf used on inp
+ut line 781.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch6_adc1-1.pdf, id=12324, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch6_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch6_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch6_adc1-1.pdf used on inp
+ut line 782.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch6_adcPedsub-1.pdf, id=12326, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch6_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch6_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch6_adcPedsub-1.pdf used o
+n input line 783.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch7_adc0-1.pdf, id=12328, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch7_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch7_adc0-1.pdf used on inp
+ut line 788.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch7_adc1-1.pdf, id=12330, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch7_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch7_adc1-1.pdf used on inp
+ut line 789.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch7_adcPedsub-1.pdf, id=12332, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch7_adcPedsub-1.pdf used o
+n input line 790.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch8_adc0-1.pdf, id=12334, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch8_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch8_adc0-1.pdf used on inp
+ut line 795.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch8_adc1-1.pdf, id=12336, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch8_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch8_adc1-1.pdf used on inp
+ut line 796.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch8_adcPedsub-1.pdf, id=12338, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch8_adcPedsub-1.pdf used o
+n input line 797.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch9_adc0-1.pdf, id=12340, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch9_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch9_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch9_adc0-1.pdf used on inp
+ut line 802.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch9_adc1-1.pdf, id=12342, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer2_Ch9_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch9_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch9_adc1-1.pdf used on inp
+ut line 803.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer2_Ch9_adcPedsub-1.pdf, id=12344, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer2_Ch9_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer2_Ch9_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer2_Ch9_adcPedsub-1.pdf used o
+n input line 804.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 806.
+
+[22
+
+ <./plotsdir/file0_muons-Layer2_Ch3_adc0-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer2_Ch3_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer2_Ch3_adcPedsub-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_muons-Layer2_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer2_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer2_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/f
+ile0_muons-Layer2_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer2_Ch5_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer2_Ch5_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_mu
+ons-Layer2_Ch6_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer2_Ch6_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r2_Ch6_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Lay
+er2_Ch7_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer2_
+Ch7_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer2_Ch7_
+adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer3_Ch0_adc0-1.pdf, id=13018, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch0_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch0_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch0_adc0-1.pdf used on inp
+ut line 809.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch0_adc1-1.pdf, id=13020, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch0_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch0_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch0_adc1-1.pdf used on inp
+ut line 810.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch0_adcPedsub-1.pdf, id=13022, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch0_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch0_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch0_adcPedsub-1.pdf used o
+n input line 811.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch1_adc0-1.pdf, id=13024, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch1_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch1_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch1_adc0-1.pdf used on inp
+ut line 816.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch1_adc1-1.pdf, id=13026, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch1_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch1_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch1_adc1-1.pdf used on inp
+ut line 817.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch1_adcPedsub-1.pdf, id=13028, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch1_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch1_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch1_adcPedsub-1.pdf used o
+n input line 818.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch2_adc0-1.pdf, id=13030, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch2_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch2_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch2_adc0-1.pdf used on inp
+ut line 823.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch2_adc1-1.pdf, id=13032, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch2_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch2_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch2_adc1-1.pdf used on inp
+ut line 824.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch2_adcPedsub-1.pdf, id=13034, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch2_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch2_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch2_adcPedsub-1.pdf used o
+n input line 825.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch3_adc0-1.pdf, id=13036, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch3_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch3_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch3_adc0-1.pdf used on inp
+ut line 830.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch3_adc1-1.pdf, id=13038, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch3_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch3_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch3_adc1-1.pdf used on inp
+ut line 831.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch3_adcPedsub-1.pdf, id=13040, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch3_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch3_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch3_adcPedsub-1.pdf used o
+n input line 832.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch4_adc0-1.pdf, id=13042, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch4_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch4_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch4_adc0-1.pdf used on inp
+ut line 837.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch4_adc1-1.pdf, id=13044, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch4_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch4_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch4_adc1-1.pdf used on inp
+ut line 838.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch4_adcPedsub-1.pdf, id=13046, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch4_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch4_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch4_adcPedsub-1.pdf used o
+n input line 839.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 841.
+
+[23 <./plotsdir/file0_muons-Layer2_Ch8_adc0-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-Layer2_Ch8_adc1-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_muons-Layer2_Ch8_adcPedsub-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer2_Ch9_adc0-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer2_Ch9_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_muons-Layer2_Ch9_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer3_Ch0_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer3_Ch0_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_
+muons-Layer3_Ch0_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer3_Ch1_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer3_Ch1_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-L
+ayer3_Ch1_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer3_Ch2_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r3_Ch2_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer3_C
+h2_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer3_Ch5_adc0-1.pdf, id=13720, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch5_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch5_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch5_adc0-1.pdf used on inp
+ut line 844.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch5_adc1-1.pdf, id=13722, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch5_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch5_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch5_adc1-1.pdf used on inp
+ut line 845.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch5_adcPedsub-1.pdf, id=13724, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch5_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch5_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch5_adcPedsub-1.pdf used o
+n input line 846.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch6_adc0-1.pdf, id=13726, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch6_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch6_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch6_adc0-1.pdf used on inp
+ut line 851.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch6_adc1-1.pdf, id=13728, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch6_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch6_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch6_adc1-1.pdf used on inp
+ut line 852.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch6_adcPedsub-1.pdf, id=13730, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch6_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch6_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch6_adcPedsub-1.pdf used o
+n input line 853.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch7_adc0-1.pdf, id=13732, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch7_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch7_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch7_adc0-1.pdf used on inp
+ut line 858.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch7_adc1-1.pdf, id=13734, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch7_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch7_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch7_adc1-1.pdf used on inp
+ut line 859.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch7_adcPedsub-1.pdf, id=13736, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch7_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch7_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch7_adcPedsub-1.pdf used o
+n input line 860.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 863.
+
+[24 <./plotsdir/file0_muons-Layer3_Ch3_adc0-1.pdf, page is rotated 90 degrees> 
+<./plotsdir/file0_muons-Layer3_Ch3_adc1-1.pdf, page is rotated 90 degrees> <./p
+lotsdir/file0_muons-Layer3_Ch3_adcPedsub-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer3_Ch4_adc0-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer3_Ch4_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir
+/file0_muons-Layer3_Ch4_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer3_Ch5_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer3_Ch5_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_
+muons-Layer3_Ch5_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0
+_muons-Layer3_Ch6_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muo
+ns-Layer3_Ch6_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-L
+ayer3_Ch6_adcPedsub-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-
+Layer3_Ch7_adc0-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Laye
+r3_Ch7_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_muons-Layer3_C
+h7_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_muons-Layer3_Ch8_adc0-1.pdf, id=14410, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch8_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch8_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch8_adc0-1.pdf used on inp
+ut line 866.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch8_adc1-1.pdf, id=14412, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch8_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch8_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch8_adc1-1.pdf used on inp
+ut line 867.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch8_adcPedsub-1.pdf, id=14414, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch8_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch8_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch8_adcPedsub-1.pdf used o
+n input line 868.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch9_adc0-1.pdf, id=14416, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch9_adc0-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch9_adc0-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch9_adc0-1.pdf used on inp
+ut line 873.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch9_adc1-1.pdf, id=14418, 569.12625pt x 363.3575pt
+>
+File: plotsdir/file0_muons-Layer3_Ch9_adc1-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch9_adc1-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch9_adc1-1.pdf used on inp
+ut line 874.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_muons-Layer3_Ch9_adcPedsub-1.pdf, id=14420, 569.12625pt x 363.3
+575pt>
+File: plotsdir/file0_muons-Layer3_Ch9_adcPedsub-1.pdf Graphic file (type pdf)
+ <use plotsdir/file0_muons-Layer3_Ch9_adcPedsub-1.pdf>
+Package pdftex.def Info: plotsdir/file0_muons-Layer3_Ch9_adcPedsub-1.pdf used o
+n input line 875.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 878.
+
+[25
+
+ <./plotsdir/file0_muons-Layer3_Ch8_adc0-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_muons-Layer3_Ch8_adc1-1.pdf, page is rotated 90 degrees> <./plot
+sdir/file0_muons-Layer3_Ch8_adcPedsub-1.pdf, page is rotated 90 degrees> <./plo
+tsdir/file0_muons-Layer3_Ch9_adc0-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_muons-Layer3_Ch9_adc1-1.pdf, page is rotated 90 degrees> <./plotsdir/fi
+le0_muons-Layer3_Ch9_adcPedsub-1.pdf, page is rotated 90 degrees>]
+<plotsdir/file0_watertower-muXproj-1.pdf, id=14694, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_watertower-muXproj-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_watertower-muXproj-1.pdf>
+Package pdftex.def Info: plotsdir/file0_watertower-muXproj-1.pdf used on input 
+line 886.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_watertower-muYproj-1.pdf, id=14696, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_watertower-muYproj-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_watertower-muYproj-1.pdf>
+Package pdftex.def Info: plotsdir/file0_watertower-muYproj-1.pdf used on input 
+line 887.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_watertower-muXpr2-1.pdf, id=14698, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_watertower-muXpr2-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_watertower-muXpr2-1.pdf>
+Package pdftex.def Info: plotsdir/file0_watertower-muXpr2-1.pdf used on input l
+ine 888.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_watertower-muYpr2-1.pdf, id=14700, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_watertower-muYpr2-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_watertower-muYpr2-1.pdf>
+Package pdftex.def Info: plotsdir/file0_watertower-muYpr2-1.pdf used on input l
+ine 893.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_watertower-muYpr3-1.pdf, id=14702, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_watertower-muYpr3-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_watertower-muYpr3-1.pdf>
+Package pdftex.def Info: plotsdir/file0_watertower-muYpr3-1.pdf used on input l
+ine 894.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+
+<plotsdir/file0_watertower-muXYproj-1.pdf, id=14704, 569.12625pt x 363.3575pt>
+File: plotsdir/file0_watertower-muXYproj-1.pdf Graphic file (type pdf)
+
+<use plotsdir/file0_watertower-muXYproj-1.pdf>
+Package pdftex.def Info: plotsdir/file0_watertower-muXYproj-1.pdf used on input
+ line 895.
+(pdftex.def)             Requested size: 284.56242pt x 181.6783pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 898.
+
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 898.
+
+[26 <./plotsdir/file0_watertower-muXproj-1.pdf, page is rotated 90 degrees> <./
+plotsdir/file0_watertower-muYproj-1.pdf, page is rotated 90 degrees> <./plotsdi
+r/file0_watertower-muXpr2-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_
+watertower-muYpr2-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_watertow
+er-muYpr3-1.pdf, page is rotated 90 degrees> <./plotsdir/file0_watertower-muXYp
+roj-1.pdf, page is rotated 90 degrees>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 898.
+
+(./plots_histWTP_473_45_0_1_2_1000000000_a.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 898.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 898.
+
+
+Package rerunfilecheck Warning: File `plots_histWTP_473_45_0_1_2_1000000000_a.o
+ut' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `plots_histWTP_473_45_0_1_2_10000000
+00_a.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  704896EEE8663AF3BCD93592DE9E5D9F;258.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 898.
+ ) 
+Here is how much of TeX's memory you used:
+ 18586 strings out of 495063
+ 361846 string characters out of 3182201
+ 360936 words of memory out of 3000000
+ 21008 multiletter control sequences out of 15000+200000
+ 22366 words of font info for 23 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 56i,11n,55p,429b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texlive
+/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist
+/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm
+-super/sftt1095.pfb>
+Output written on plots_histWTP_473_45_0_1_2_1000000000_a.pdf (26 pages, 437453
+7 bytes).
+PDF statistics:
+ 15025 PDF objects out of 15390 (max. 8388607)
+ 6313 compressed objects within 64 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 3546 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,133 @@
+%%% Template originaly created by Karol Kozioł (mail@karol-koziol.net) and modified for ShareLaTeX use
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\usepackage{float}
+\usepackage[skip=2pt]{caption} 
+
+\usepackage{tgtermes}
+
+\usepackage[
+pdftitle={TTU ROC}, 
+pdfauthor={TTU ROC},
+colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue,bookmarks=true,
+bookmarksopenlevel=2]{hyperref}
+\usepackage{amsmath,amssymb,amsthm,textcomp}
+\usepackage{enumerate}
+\usepackage{multicol}
+\usepackage{tikz}
+
+\usepackage{geometry}
+\geometry{total={210mm,297mm},
+left=15mm,right=15mm,%
+bindingoffset=0mm, top=20mm,bottom=20mm}
+
+
+\linespread{1.3}
+
+\newcommand{\linia}{\rule{\linewidth}{0.5pt}}
+
+% custom theorems if needed
+\newtheoremstyle{mytheor}
+    {1ex}{1ex}{\normalfont}{0pt}{\scshape}{.}{1ex}
+    {{\thmname{#1 }}{\thmnumber{#2}}{\thmnote{ (#3)}}}
+
+\theoremstyle{mytheor}
+\newtheorem{defi}{Definition}
+
+% my own titles
+\makeatletter
+\renewcommand{\maketitle}{
+\begin{center}
+\vspace{2ex}
+{\huge \textsc{\@title}}
+\vspace{1ex}
+\\
+\linia\\
+\@author \hfill \@date
+\vspace{4ex}
+\end{center}
+}
+\makeatother
+%%%
+
+% custom footers and headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{histWTP\_410\_50\_-90\_1\_2\_1000000000\_a.root / 2019-10-10.01:03:31 / MuonSC8 (2019) }
+\cfoot{}
+\rfoot{Page \thepage\ /\ \pageref*{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+%
+
+%%%----------%%%----------%%%----------%%%----------%%%
+
+\begin{document}
+
+%   QAZTITLE and QAZDATE will be replaced by root2pdf program.
+\title{histWTP\_410\_50\_-90\_1\_2\_1000000000\_a.root}
+
+\author{MuonSC8 Analysis Team }
+
+\date{2019-10-10.01:03:31}
+
+\maketitle
+
+\section{Introduction}
+
+The follwoing sections show plots from analysis of MuonSC8. 
+
+% \section{Plots}
+
+
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=0.3\textwidth,scale=0.5,trim=0 0 0 0,clip]{metPt.pdf} 
+%\caption{ch3 fig 3.4,~~~ $\delta=0$, $\delta=\frac{\pi}{3}$ and $\delta=\frac{\pi}{2}$ for $\omega_y=2\omega_x$}
+% \label{fig:fig1a}
+%\end{figure}
+
+
+% \end{document}
+
+\section{SC8 Raw Data} 
+\begin{verbatim} 
+Configuraion of the run since (06/28/2019): 
+Layer 0:  (BB 0) 6 Channels, without cone, direct 
+Layer 0:  (BB 1) 5 channels, without cone, direct 
+Layer 1:  (BB 0) 6 Channels, with new holders, long cones 
+Layer 1:  (BB 1) 4 Channels, with new holders, long cones 
+Layer 2:  (BB 0) 6 channels, without Cone, direct 
+Layer 2:  (BB 1) 5 channels, without Cone, direct 
+Layer 3:  (BB 0) 6 channels, old holder, long cones 
+Layer 3:  (BB 1) 5 Channels, old holder, long cones 
+\end{verbatim} 
+\newpage 
+\section{Hit Cluster Analysis} 
+\begin{verbatim} 
+Clusters of hits in global time frame. 
+\end{verbatim} 
+\newpage 
+\section{Muon Track Analysis} 
+\begin{verbatim} 
+Four layer coincidence. 
+The number of hits on muon track = 1 hit per layer  
+\end{verbatim} 
+\newpage 
+\section{Water Tower Analysis} 
+\begin{verbatim} 
+Four layer coincidence. 
+The number of hits on muon track = 1 hit per layer 
+\end{verbatim} 
+\end{document} 
